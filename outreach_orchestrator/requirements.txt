@@ -1,0 +1,6 @@
+pymongo>=4.9.2
+python-dotenv>=1.0.1
+
+# Local sibling packages -- paths are relative to this file.
+-e ../OsmProject
+-e ../email_outreach

@@ -1,0 +1,1 @@
+# Python virtual environmentsecho .venv/echo venv/echo env/echo ENV/echo.echo # Python cacheecho __pycache__/echo *.pycecho *.pyoecho.echo # CSV data filesecho *.csvecho.echo # Python generated filesecho *.pklecho *.pickleecho *.joblibecho.echo # IDEecho .vscode/echo .idea/echo.echo # OSecho .DS_Storeecho Thumbs.db

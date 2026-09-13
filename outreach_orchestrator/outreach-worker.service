@@ -1,0 +1,32 @@
+# /etc/systemd/system/outreach-worker.service
+# sudo systemctl daemon-reload && sudo systemctl enable --now outreach-worker
+#
+# Runs *alongside* osmharvest.service, not instead of it -- this service
+# only watches for completed osmharvest jobs and runs the contact-email
+# scrape; it does not talk to Overpass itself.
+[Unit]
+Description=Outreach orchestrator (OSM completion watcher + contact scraper)
+After=network-online.target mongod.service osmharvest.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=harvester
+WorkingDirectory=/opt/outreach_orchestrator
+Environment="MONGO_URI=mongodb://localhost:27017"
+Environment="MONGO_DB=blood_donor_platform"
+ExecStart=/opt/outreach_orchestrator/.venv/bin/python orchestrator.py \
+    --mongo-uri ${MONGO_URI} \
+    --mongo-db ${MONGO_DB} \
+    --osm-db /opt/osmharvest/osmharvest.db \
+    --export-dir /opt/osmharvest/exports \
+    --contacts-dir /opt/outreach_orchestrator/contacts \
+    --max-places 40 \
+    --poll 30
+Restart=always
+RestartSec=30
+KillSignal=SIGTERM
+TimeoutStopSec=300
+
+[Install]
+WantedBy=multi-user.target

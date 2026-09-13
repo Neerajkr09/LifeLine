@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./OsmProject",
+        "./email_outreach"
+    ]
+}

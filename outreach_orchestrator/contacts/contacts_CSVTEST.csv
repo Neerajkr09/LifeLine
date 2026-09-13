@@ -1,0 +1,26 @@
+request_id,category,name,distance_metres,website,source,extracted_email
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.bengaluru@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.bhopal@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.bhubneswar@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.chennai@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.daman@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.delhi@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.gandhinagar@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.hyderabad@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.jodhpur@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.kangra@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.kannur@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.kolkata@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.mumbai@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.panchkula@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.patna@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.raebareli@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.raipur@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.shillong@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.srinagar@nift.ac.in
+CSVTEST,college,National Institute Of Fashion Technology,1420.1,https://nift.ac.in/,scraped_website,director.varanasi@nift.ac.in
+CSVTEST,restaurant,Nectar Kitchen & Bar,1755.2,https://amovebo.com/nectarmenu,osm_tag,contact@amovebo.com
+CSVTEST,pub,36 DownTown,2076.1,https://www.36downtownbrewpub.com/,scraped_website,36-logo-02-1_00a6005b0_2209@2x.png
+CSVTEST,pub,36 DownTown,2076.1,https://www.36downtownbrewpub.com/,scraped_website,72x-8_00c100c31_2359@2x.png
+CSVTEST,pub,36 DownTown,2076.1,https://www.36downtownbrewpub.com/,scraped_website,logo6years_009600640_2577@2x.png
+CSVTEST,pub,36 DownTown,2076.1,https://www.36downtownbrewpub.com/,scraped_website,logo6years_00c300c31_2577@2x.png

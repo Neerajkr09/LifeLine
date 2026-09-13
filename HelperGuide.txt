@@ -1,0 +1,16 @@
+Issue-- Error: [Errno 13] Permission denied: 'C:\\Users\\Neeraj Kumar\\Downloads\\blood-donor-outreach-platformV3\\blood-donor-outreach-platform-v3\\OsmProject\\.venv\\Scripts\\python.exe'
+
+
+One solution - rmdir /s /q .venv
+If still says access denied---
+----means python.exe are running in some ports--
+use -- tasklist | findstr /i python
+
+kill pyhton.exe with - taskkill /F /IM python.exe
+
+kill uvicorn jobs with- taskkill /F /IM uvicorn.exe
+
+
+then run--rmdir /s /q .venv
+
+then follow the start steps create VE and activate them and run

@@ -1,0 +1,7 @@
+request_id,category,name,distance_metres,website,source,extracted_email
+52904683,pub,Old Hall,655.7,https://www.brunningandprice.co.uk/oldhall/,scraped_website,old.hall@brunningandprice.co.uk
+52904683,pub,Ye Olde Black Bear,657.1,https://www.dv8bar.co.uk/,scraped_website,info@dv8bar.co.uk
+52904683,restaurant,Kiki’s Table,702.7,,osm_tag,kikistableltd@gmail.com
+52904683,restaurant,Barchetta Restaurant,1115.2,https://barchettawheelock.co.uk/,scraped_website,admin@barchettawheelock.co.uk
+52904683,restaurant,Barchetta Restaurant,1115.2,https://barchettawheelock.co.uk/,scraped_website,bar@barchettawheelock.co.uk
+52904683,pub,,4642.9,https://thebearspaw.co.uk/,scraped_website,info@thebearspaw.co.uk

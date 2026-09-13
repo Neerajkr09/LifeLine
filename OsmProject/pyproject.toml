@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "osmharvest"
+version = "1.0.0"
+description = "Resumable OpenStreetMap POI harvester with per-request email export."
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+]
+
+[tool.setuptools]
+packages = ["osmharvest"]

@@ -1,0 +1,7 @@
+request_id,category,name,distance_metres,website,source,extracted_email
+79479723,pub,Old Hall,653.6,https://www.brunningandprice.co.uk/oldhall/,scraped_website,old.hall@brunningandprice.co.uk
+79479723,pub,Ye Olde Black Bear,654.9,https://www.dv8bar.co.uk/,scraped_website,info@dv8bar.co.uk
+79479723,restaurant,Kiki’s Table,700.6,,osm_tag,kikistableltd@gmail.com
+79479723,restaurant,Barchetta Restaurant,1117.1,https://barchettawheelock.co.uk/,scraped_website,admin@barchettawheelock.co.uk
+79479723,restaurant,Barchetta Restaurant,1117.1,https://barchettawheelock.co.uk/,scraped_website,bar@barchettawheelock.co.uk
+79479723,pub,,4644.2,https://thebearspaw.co.uk/,scraped_website,info@thebearspaw.co.uk

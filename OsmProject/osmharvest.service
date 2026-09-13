@@ -1,0 +1,22 @@
+# /etc/systemd/system/osmharvest.service
+# sudo systemctl daemon-reload && sudo systemctl enable --now osmharvest
+[Unit]
+Description=OSM Overpass harvester worker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=harvester
+WorkingDirectory=/opt/osmharvest
+Environment="OSMHARVEST_USER_AGENT=osm-harvester/1.0 (blood-donor-outreach-platform; contact: krneeraj.0509@gmail.com)"
+Environment="OSMHARVEST_MIN_INTERVAL=3.0"
+ExecStart=/opt/osmharvest/.venv/bin/python -m osmharvest run --follow --log-file logs/worker.log
+Restart=always
+RestartSec=60
+# The worker finishes its current task on SIGTERM before exiting.
+KillSignal=SIGTERM
+TimeoutStopSec=300
+
+[Install]
+WantedBy=multi-user.target

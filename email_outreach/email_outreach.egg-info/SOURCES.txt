@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+email_outreach/__init__.py
+email_outreach/pipeline.py
+email_outreach/pipelineold.py
+email_outreach/scraper.py
+email_outreach.egg-info/PKG-INFO
+email_outreach.egg-info/SOURCES.txt
+email_outreach.egg-info/dependency_links.txt
+email_outreach.egg-info/requires.txt
+email_outreach.egg-info/top_level.txt

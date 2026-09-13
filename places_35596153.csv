@@ -1,0 +1,452 @@
+﻿request_id,category,name,distance_metres,email,website,phone,address,postcode,opening_hours,cuisine,operator,brand,amenity,latitude,longitude,osm_type,osm_id,osm_url
+35596153,restaurant,Wingster,340.2,,,,,,,,,,restaurant,17.4515049,78.39417,node,6261444885,https://www.openstreetmap.org/node/6261444885
+35596153,restaurant,Madura Indian Fusion Restaurant,350.9,,,,,,,,,,restaurant,17.450881,78.3966975,way,753231497,https://www.openstreetmap.org/way/753231497
+35596153,restaurant,Kritunga,367.8,,,,,,,,,,restaurant,17.4514807,78.3937843,node,6246439585,https://www.openstreetmap.org/node/6246439585
+35596153,restaurant,HutK Restaurant,368.4,,,,,,,,,,restaurant,17.4515635,78.3936807,node,7025820814,https://www.openstreetmap.org/node/7025820814
+35596153,restaurant,Restaurant Guest Wifi Solutions,376.1,,,,,,,,,,restaurant,17.4508318,78.3947564,node,7027716893,https://www.openstreetmap.org/node/7027716893
+35596153,restaurant,Red Bucket,457.6,,,,,,,,,,restaurant,17.4516821,78.392479,node,10171328862,https://www.openstreetmap.org/node/10171328862
+35596153,restaurant,Super Lean Meals,459.6,,,,,,,,,,restaurant,17.4516412,78.3924843,node,7025820821,https://www.openstreetmap.org/node/7025820821
+35596153,restaurant,Kitchen 007,467.2,,,,,,,,,,restaurant,17.4499217,78.3949095,node,7027716895,https://www.openstreetmap.org/node/7027716895
+35596153,restaurant,Tollywood Thick Shakes,470.7,,,,,,,,,,restaurant,17.4499292,78.3947616,node,7027716897,https://www.openstreetmap.org/node/7027716897
+35596153,restaurant,Dhanyatha Foods,534.4,,,,,,,,,,restaurant,17.4498409,78.3934938,node,7025820815,https://www.openstreetmap.org/node/7025820815
+35596153,restaurant,Annapurna Tiffens,537.2,,,,,,,,,,restaurant,17.4518379,78.391518,node,5469130135,https://www.openstreetmap.org/node/5469130135
+35596153,restaurant,The London Shakes,541.2,,,,,,,,,,restaurant,17.4513469,78.3917665,node,7025820823,https://www.openstreetmap.org/node/7025820823
+35596153,college,Sri Chaitanya College,591.9,,,,,,,,,,college,17.4509725,78.391453,node,7025820836,https://www.openstreetmap.org/node/7025820836
+35596153,restaurant,Mukka Mudda,615.1,,,,,,,indian,,,restaurant,17.450138,78.391885,node,10171328869,https://www.openstreetmap.org/node/10171328869
+35596153,restaurant,Shake Stories,738.9,,,,,,,,,,restaurant,17.4475218,78.3944099,node,7025820813,https://www.openstreetmap.org/node/7025820813
+35596153,restaurant,Inner Chef,739.4,,,,,,,,,,restaurant,17.4493044,78.3911004,node,7025820832,https://www.openstreetmap.org/node/7025820832
+35596153,restaurant,Charcoal Bbq,842.8,,,,,,,,,,restaurant,17.4475331,78.3918768,node,5931166341,https://www.openstreetmap.org/node/5931166341
+35596153,college,Resonance,870.5,,,,,,,,,,college,17.4501153,78.388921,node,6935432004,https://www.openstreetmap.org/node/6935432004
+35596153,restaurant,Organic Thali kitchen,881.5,,,,,,,,,,restaurant,17.4476207,78.3910935,node,7025820825,https://www.openstreetmap.org/node/7025820825
+35596153,restaurant,Sampradhaya curry point,903.0,,,,,,,,,,restaurant,17.446934,78.3918229,node,5692072169,https://www.openstreetmap.org/node/5692072169
+35596153,restaurant,Kalinga's Kitchen,908.5,,,,,,,,,,restaurant,17.4469404,78.3917078,node,5467328880,https://www.openstreetmap.org/node/5467328880
+35596153,restaurant,Bake Factory Kitchens,913.6,,,,,,,,,,restaurant,17.4462187,78.3988928,node,7025820773,https://www.openstreetmap.org/node/7025820773
+35596153,restaurant,Fudzy,930.6,,,,"195 Jai Hind Gandhi Road, Hyderabad, 500081",500081,Mo-Sa 08:00-18:00,regional,,,restaurant,17.4488567,78.38912,node,6934838950,https://www.openstreetmap.org/node/6934838950
+35596153,college,VelocIITy junior kalam campus,939.8,,,,,,,,,,college,17.4465983,78.3917396,node,7021303609,https://www.openstreetmap.org/node/7021303609
+35596153,restaurant,Golconda Chefs,940.9,,,,,,,,,,restaurant,17.4462385,78.3924715,node,7025820784,https://www.openstreetmap.org/node/7025820784
+35596153,restaurant,Raju Gari Biriyani,956.5,,,,,,,,,,restaurant,17.4462141,78.3921748,node,10171342017,https://www.openstreetmap.org/node/10171342017
+35596153,restaurant,Desi Dhabha,978.1,,,,,,,,,,restaurant,17.4458496,78.3925347,node,7025820783,https://www.openstreetmap.org/node/7025820783
+35596153,restaurant,Golconda Chef,1006.5,,,,,,,indian,,,restaurant,17.4455723,78.3925382,node,5793698165,https://www.openstreetmap.org/node/5793698165
+35596153,restaurant,Simhapuri Deluxe,1040.1,,,,,,,,,,restaurant,17.4513665,78.3866436,node,7021303736,https://www.openstreetmap.org/node/7021303736
+35596153,university,VelocIITy School,1112.1,,,,"Kakateeya Hills Rd 9, Kakatiya Hills, Kavuri Hills Phase 1, Kavuri Hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4441106,78.3977727,node,7385438446,https://www.openstreetmap.org/node/7385438446
+35596153,restaurant,The sweet tooth,1116.4,,,,,,,,,,restaurant,17.4466519,78.3888618,node,6935609217,https://www.openstreetmap.org/node/6935609217
+35596153,restaurant,Ankapur Kitchen,1119.5,,,,,,,,,,restaurant,17.4452494,78.3907983,node,7025803845,https://www.openstreetmap.org/node/7025803845
+35596153,restaurant,The grand truck road,1127.1,,,,,,,,,,restaurant,17.4518874,78.3856618,node,6935579741,https://www.openstreetmap.org/node/6935579741
+35596153,restaurant,Urban Spice kitchen,1150.3,,,,,,,,,,restaurant,17.4463118,78.3887776,node,7021303729,https://www.openstreetmap.org/node/7021303729
+35596153,college,Orbit Educational Institutions,1157.0,,,,,,,,,,college,17.4500041,78.3859779,node,7021303759,https://www.openstreetmap.org/node/7021303759
+35596153,restaurant,Urban Vilage,1160.6,,,,,,,,,,restaurant,17.4522212,78.3852733,node,6261439688,https://www.openstreetmap.org/node/6261439688
+35596153,restaurant,President Dhaba,1170.2,,,,"Image Garden Road, Hyderabad, 500081",500081,,indian;regional;chinese,,,restaurant,17.4500761,78.3858133,node,5160665781,https://www.openstreetmap.org/node/5160665781
+35596153,university,Iris Florets Madhapur,1170.3,,,,"123, Rd Number 3, Kakatiya Hills, Kavuri Hills Phase 1, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",,,,,,university,17.4443981,78.4006274,node,7385438462,https://www.openstreetmap.org/node/7385438462
+35596153,restaurant,Palamuri Grill,1185.3,,,,,,,,,,restaurant,17.4522477,78.3850331,node,6259475585,https://www.openstreetmap.org/node/6259475585
+35596153,university,The Learningraph,1189.7,,,,"Alamgir Masjid Lane, Kakatiya Hills, Kavuri Hills Phase 1, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033",,,,,,university,17.4433156,78.3969912,node,7385438445,https://www.openstreetmap.org/node/7385438445
+35596153,restaurant,Onesta Restaurant,1206.7,,,,,,,,,,restaurant,17.4492551,78.3858169,node,7021303730,https://www.openstreetmap.org/node/7021303730
+35596153,restaurant,Naidu Gari Ruchulu,1230.1,,,,,,,,,,restaurant,17.4495149,78.3854475,node,7021303735,https://www.openstreetmap.org/node/7021303735
+35596153,restaurant,Swach,1239.6,,,,,,,south_indian;indian,,,restaurant,17.455123,78.3844345,way,1199766652,https://www.openstreetmap.org/way/1199766652
+35596153,pub,Sounds and Sprites,1265.8,,,,,,,,,,pub,17.4425942,78.3961412,node,6268103690,https://www.openstreetmap.org/node/6268103690
+35596153,restaurant,Ahilobhilam Foods,1268.8,,,,,,,,,,restaurant,17.4549917,78.3841449,node,6248961886,https://www.openstreetmap.org/node/6248961886
+35596153,restaurant,T-grill,1272.0,,,,,,,,,,restaurant,17.4425382,78.3961507,node,6268103691,https://www.openstreetmap.org/node/6268103691
+35596153,restaurant,Annapurna,1272.1,,,,,,,,,,restaurant,17.4433326,78.3916667,node,5482822501,https://www.openstreetmap.org/node/5482822501
+35596153,university,Pioneer World School,1293.0,,,,"Plot No. 16, H. No. 1-63/3/16, Jubilee Hills road no. 36 extension, Hyderabad, Telangana 500081",,,,,,university,17.4423925,78.3971119,node,7385438443,https://www.openstreetmap.org/node/7385438443
+35596153,restaurant,Sree Uma Grand - Multicuisine Restaurant,1293.4,,,,,,,,,,restaurant,17.4427049,78.3930518,node,7025820793,https://www.openstreetmap.org/node/7025820793
+35596153,university,St. Mary's Junior College,1316.5,,,,,,,,,,university,17.4422085,78.3974119,node,7385438444,https://www.openstreetmap.org/node/7385438444
+35596153,restaurant,hyderabad host,1362.0,,,,,,,,,,restaurant,17.4417444,78.3966967,node,6259475085,https://www.openstreetmap.org/node/6259475085
+35596153,restaurant,Spicy Hub,1366.5,,,,,,,asian;chicken;indian,,,restaurant,17.4448983,78.3873777,node,6009842126,https://www.openstreetmap.org/node/6009842126
+35596153,restaurant,Soma's Kitchen,1376.7,,,,,,,indian,,,restaurant,17.4442825,78.3879877,node,5965559685,https://www.openstreetmap.org/node/5965559685
+35596153,restaurant,Mdina Hotel And Cafe,1381.1,,,,,,,indian;tea,,,restaurant,17.4535391,78.4090708,node,11082688354,https://www.openstreetmap.org/node/11082688354
+35596153,restaurant,Aadi Raghavendra Udupi Veg,1381.2,,,,,,,chinese;indian,,,restaurant,17.4441489,78.3880973,node,5965559686,https://www.openstreetmap.org/node/5965559686
+35596153,restaurant,Abhiruchi Restaurant,1400.7,,,,,,,,,,restaurant,17.4456195,78.3861795,node,5942783245,https://www.openstreetmap.org/node/5942783245
+35596153,restaurant,Hyderabad Spice,1405.0,,,8186014444,madhapur road,,Mo-Su 10:00-23:00,,,,restaurant,17.4413494,78.396511,node,5291150521,https://www.openstreetmap.org/node/5291150521
+35596153,restaurant,Eat Country Style,1407.8,,,+91 40 2312 2222,,,,chicken;chinese;fish;indian;regional,,,restaurant,17.4454605,78.3862392,node,5942847663,https://www.openstreetmap.org/node/5942847663
+35596153,restaurant,Pizza Hut,1408.1,,,,,,,pizza,,Pizza Hut,restaurant,17.4453139,78.3863774,node,1275490943,https://www.openstreetmap.org/node/1275490943
+35596153,restaurant,Appetito,1415.5,,,,,,,,,,restaurant,17.4456498,78.3859665,node,5942783243,https://www.openstreetmap.org/node/5942783243
+35596153,college,National Institute Of Fashion Technology,1420.1,,https://nift.ac.in/,40 2311 0841,"Opposite Hi-tech City, Cyberabad Post, Madhapur, Jaihind Enclave, Madhapur, Hyderabad, 500081",500081,,,,,college,17.4494882,78.3835256,relation,5333682,https://www.openstreetmap.org/relation/5333682
+35596153,restaurant,Pan Shop,1422.4,,,,,,,,,,restaurant,17.444902,78.3866088,node,5957452586,https://www.openstreetmap.org/node/5957452586
+35596153,restaurant,Maharaja Chat,1459.9,,,,500081,500081,,regional,,,restaurant,17.4408585,78.3965959,node,2875118608,https://www.openstreetmap.org/node/2875118608
+35596153,restaurant,Kafe Tirupati,1460.0,,,,,,,,,,restaurant,17.441612,78.3914323,node,5459525615,https://www.openstreetmap.org/node/5459525615
+35596153,restaurant,Olive Garden,1460.9,,,,,,,italian,,Olive Garden,restaurant,17.4450343,78.3859699,node,349270034,https://www.openstreetmap.org/node/349270034
+35596153,restaurant,Oven Italia,1461.8,,,,,,,,,,restaurant,17.4416678,78.3912208,node,7025820891,https://www.openstreetmap.org/node/7025820891
+35596153,restaurant,B- Eats,1469.2,,,,,,,Biryanis;chinese;South_Indian;North_Indian,,,restaurant,17.4431896,78.3880625,node,6191762120,https://www.openstreetmap.org/node/6191762120
+35596153,restaurant,Sri Sai Venkateshwara Hotel,1474.9,,,,,,,,,,restaurant,17.4415454,78.3912131,node,7025820893,https://www.openstreetmap.org/node/7025820893
+35596153,restaurant,Grand Spicy Bawarchi,1480.7,,,,,,,,,,restaurant,17.4447002,78.386046,node,7021303733,https://www.openstreetmap.org/node/7021303733
+35596153,restaurant,Chinatown,1481.9,,,,,,,,,,restaurant,17.4431428,78.3879241,node,7021303726,https://www.openstreetmap.org/node/7021303726
+35596153,restaurant,Shree Santhosh Family Dhaba,1486.3,,,,,,,,,,restaurant,17.4416446,78.3906575,node,7025820902,https://www.openstreetmap.org/node/7025820902
+35596153,restaurant,Ayathi Restaurant,1487.0,,,,,,,,,,restaurant,17.4450565,78.3856161,node,7021303734,https://www.openstreetmap.org/node/7021303734
+35596153,restaurant,Krazy Chef,1492.7,,,,,,,,,,restaurant,17.443142,78.3877529,node,7021303727,https://www.openstreetmap.org/node/7021303727
+35596153,restaurant,Flechazo,1493.0,,,,500081,500081,,indian;asian,,,restaurant,17.4464954,78.3843723,node,5942781129,https://www.openstreetmap.org/node/5942781129
+35596153,restaurant,Dil Punjabi,1496.0,,,,,,,sushi,,,restaurant,17.4412924,78.3913618,node,2134523285,https://www.openstreetmap.org/node/2134523285
+35596153,restaurant,Rayalaseema Ruchulu,1496.0,,,,500081,500081,,,,,restaurant,17.4466084,78.38426,node,5970759667,https://www.openstreetmap.org/node/5970759667
+35596153,restaurant,Hitech Bawarchi,1496.2,,,,,,,,,,restaurant,17.4411978,78.3916463,node,9917006217,https://www.openstreetmap.org/node/9917006217
+35596153,restaurant,Udupi Vihar,1497.5,,,,,,,,,,restaurant,17.4412938,78.3913136,node,2134523286,https://www.openstreetmap.org/node/2134523286
+35596153,restaurant,The Adda,1498.2,,,,,,,,,,restaurant,17.4415331,78.3906461,node,7025820897,https://www.openstreetmap.org/node/7025820897
+35596153,restaurant,Hi-Tech Bawarchi,1500.7,,,,,,,,,,restaurant,17.4430468,78.3877611,node,7021303728,https://www.openstreetmap.org/node/7021303728
+35596153,restaurant,Lucky Restaurant,1518.4,,,,,,,indian,,,restaurant,17.4406202,78.3930877,node,6485323329,https://www.openstreetmap.org/node/6485323329
+35596153,restaurant,Madhapur Bawarchi,1522.2,,,,,,,,,,restaurant,17.4407157,78.3924993,node,7025820886,https://www.openstreetmap.org/node/7025820886
+35596153,restaurant,Morning Dew,1531.5,,,,,,,,,,restaurant,17.4404283,78.3934664,node,7025820874,https://www.openstreetmap.org/node/7025820874
+35596153,restaurant,Gingercourt,1531.8,,,,,,,indian,,,restaurant,17.4404184,78.3935111,node,1275490936,https://www.openstreetmap.org/node/1275490936
+35596153,restaurant,Thurum Khan Restaurant,1532.8,,,,,,,,,,restaurant,17.4404015,78.3935559,node,7025820871,https://www.openstreetmap.org/node/7025820871
+35596153,restaurant,Mefhil,1544.4,,,,,,,,,,restaurant,17.4514068,78.3817509,way,356283222,https://www.openstreetmap.org/way/356283222
+35596153,restaurant,Kritunga Restaurant,1547.5,,,,,,,,,,restaurant,17.4408428,78.3912368,node,7025820751,https://www.openstreetmap.org/node/7025820751
+35596153,restaurant,Ghar Ka Khaana,1556.3,,,,,,,,,,restaurant,17.4404308,78.3923717,node,7025820883,https://www.openstreetmap.org/node/7025820883
+35596153,restaurant,Hideout,1557.8,,,,,,,,,,restaurant,17.4402073,78.3933547,node,1650424028,https://www.openstreetmap.org/node/1650424028
+35596153,college,Gayatri College,1560.5,,,,,,,,,,college,17.4407911,78.3910254,node,7025820750,https://www.openstreetmap.org/node/7025820750
+35596153,restaurant,Tumba Bengali Food,1569.2,,,,,,,,,,restaurant,17.4420469,78.3881578,node,7025820918,https://www.openstreetmap.org/node/7025820918
+35596153,restaurant,Tilaks Kitchen,1571.4,,,+919949576666,"plot no111 road no 1 kakateeyahills, Hyderabad",,,regional,,,restaurant,17.4401506,78.3991194,way,642208375,https://www.openstreetmap.org/way/642208375
+35596153,restaurant,Windows of the World,1581.5,,,,,,,,,,restaurant,17.4502975,78.3816574,node,344033897,https://www.openstreetmap.org/node/344033897
+35596153,restaurant,Eatsome,1581.6,,,,,,,,,,restaurant,17.4418969,78.3881888,node,7025820919,https://www.openstreetmap.org/node/7025820919
+35596153,restaurant,Sanjha Chulha Punjabi Food Joint,1582.2,,,,,,,,,,restaurant,17.4415069,78.3888758,node,7025820906,https://www.openstreetmap.org/node/7025820906
+35596153,restaurant,Lassi Bistro,1583.3,,,,,,,,,,restaurant,17.4417109,78.3884808,node,7025820913,https://www.openstreetmap.org/node/7025820913
+35596153,restaurant,Brickwood Pizza,1625.5,,,,,,,,,,restaurant,17.4412922,78.3884437,node,7025820911,https://www.openstreetmap.org/node/7025820911
+35596153,restaurant,The Burrito Bowl,1635.8,,,,,,,,,,restaurant,17.4414119,78.3880408,node,7025820916,https://www.openstreetmap.org/node/7025820916
+35596153,university,Ekalavya Foundation,1644.5,,,,"8-4-369/379, SPR Hills, Rajiv Gandhi Nagar, Borabanda, Hyderabad, Telangana 500018",,,,,,university,17.4470171,78.4097371,node,7385892266,https://www.openstreetmap.org/node/7385892266
+35596153,restaurant,Chutneys,1652.3,,,,,,,,,,restaurant,17.4526084,78.380549,node,6760780819,https://www.openstreetmap.org/node/6760780819
+35596153,restaurant,Mainland China,1654.5,,,,Hitec City - Kondapur Main Road,,11:00-22:00,chinese,,,restaurant,17.4506078,78.3808666,node,3159028270,https://www.openstreetmap.org/node/3159028270
+35596153,restaurant,Kshatriya Foods,1658.4,,,092347 89789,"Sri Rama Colony, Madhapur, Hyderabad, Telangana, 500033",500033,Mo-Su 12:00-11:00,indian,,,restaurant,17.4391715,78.397936,node,10314279709,https://www.openstreetmap.org/node/10314279709
+35596153,restaurant,SpiceTribe,1661.8,,,,,,,,,,restaurant,17.439117,78.3977184,node,1909499642,https://www.openstreetmap.org/node/1909499642
+35596153,restaurant,Oh! Calcutta,1676.5,,,,,,"Mo-Su 12:00-15:30, 19:00-23:00",,,,restaurant,17.4528112,78.3803019,node,11597374603,https://www.openstreetmap.org/node/11597374603
+35596153,restaurant,Beach House,1710.6,,,,,,,,,,restaurant,17.4386399,78.3948138,node,7025820764,https://www.openstreetmap.org/node/7025820764
+35596153,restaurant,Big Dosa,1717.2,,,,,,,,,,restaurant,17.4424887,78.3852422,node,1641547337,https://www.openstreetmap.org/node/1641547337
+35596153,university,Brilliant Talent High School,1721.2,,,,"Rd Number 26, Borabanda, Hyderabad, Telangana 500018",,,,,,university,17.4482016,78.4111128,node,7385892267,https://www.openstreetmap.org/node/7385892267
+35596153,college,Sri Venkateshwara Group of Colleges,1723.5,,,,,,,,,,college,17.4429057,78.3846885,way,852979199,https://www.openstreetmap.org/way/852979199
+35596153,restaurant,Absolute Barbecues (ABs),1746.6,,,,"Plot No. 722 Jubilee Hills Road No 36, 500033",500033,12:00-23:30,,,,restaurant,17.4383572,78.3977922,node,4566238603,https://www.openstreetmap.org/node/4566238603
+35596153,restaurant,Nectar Kitchen & Bar,1755.2,contact@amovebo.com,https://amovebo.com/nectarmenu,+919459454888,"1/2, Plot No, 8-2-293/82/A/727 Jubilee Hills Road No 36, Hyderabad, 500033",500033,Mo-Su 11:00-23:00,indian;chinese;dessert;pizza;burger;chicken;kebab;ice_cream;seafood;juice,,Nectar Kitchen & Bar,restaurant,17.4384489,78.3990271,node,10178228307,https://www.openstreetmap.org/node/10178228307
+35596153,restaurant,Foodie Resto,1778.2,,,,,,,,,,restaurant,17.4417241,78.3852879,node,7021303640,https://www.openstreetmap.org/node/7021303640
+35596153,restaurant,Big Dosa,1792.7,,,,,,,,,,restaurant,17.4474117,78.3806242,node,1042232799,https://www.openstreetmap.org/node/1042232799
+35596153,restaurant,Paradise Biriyani,1817.6,,,,,,,,,,restaurant,17.4506315,78.3792865,node,1642224750,https://www.openstreetmap.org/node/1642224750
+35596153,restaurant,Sampradaya Ruchulu Restaurant,1822.2,,,,,,,,,,restaurant,17.4385383,78.3902999,node,7025820753,https://www.openstreetmap.org/node/7025820753
+35596153,restaurant,Paradise,1829.2,,,,,,11:00-22:00,indian,,,restaurant,17.4506148,78.3791786,node,3159028268,https://www.openstreetmap.org/node/3159028268
+35596153,restaurant,,1853.4,,,,,,,,,,restaurant,17.4504946,78.3789724,way,360989957,https://www.openstreetmap.org/way/360989957
+35596153,restaurant,Cara Cara Hyderabad,1907.1,,https://www.caracara.in/,,,,,world;indian;asian;italian,,,restaurant,17.4369676,78.3983593,way,1279292305,https://www.openstreetmap.org/way/1279292305
+35596153,restaurant,Abhiruchi,1910.7,,,,,,,,,,restaurant,17.4377697,78.3900781,node,6994597339,https://www.openstreetmap.org/node/6994597339
+35596153,college,Narayana IIT academy,1916.3,,,,,,,,,,college,17.4369722,78.3931292,node,7021303764,https://www.openstreetmap.org/node/7021303764
+35596153,restaurant,Zza Bar @ Syala 95A,1918.8,,,,,,,,,,restaurant,17.4367499,78.3970998,node,7025820846,https://www.openstreetmap.org/node/7025820846
+35596153,restaurant,Fire Water,1919.2,,,,,,,,,,restaurant,17.4479014,78.3791248,node,10718145771,https://www.openstreetmap.org/node/10718145771
+35596153,restaurant,habanero,1934.5,,,,,,,mexican,,,restaurant,17.447991,78.3789356,node,3943140439,https://www.openstreetmap.org/node/3943140439
+35596153,restaurant,Sweet Nirvana,1959.1,,,,,,,international,,,restaurant,17.4363967,78.3972659,node,1365116006,https://www.openstreetmap.org/node/1365116006
+35596153,restaurant,Sambal,1967.5,,,,,,,indonesian,,,restaurant,17.4378342,78.3884652,node,7021303731,https://www.openstreetmap.org/node/7021303731
+35596153,restaurant,Forget Me Not Cafe,1969.6,,,+919381733498,"189/3/C/18 Durgam Cheruvu Road, 500081",500081,24/7,chicken;coffee_shop;grill;ice_cream;indian;local;noodles,,,restaurant,17.4374797,78.3893004,node,13279648101,https://www.openstreetmap.org/node/13279648101
+35596153,restaurant,Bahar café,2010.9,,,,,,,,,,restaurant,17.4472359,78.3784684,node,5611008663,https://www.openstreetmap.org/node/5611008663
+35596153,restaurant,Eat Central,2016.0,,,,,,,,,,restaurant,17.4412679,78.3825065,node,3008092655,https://www.openstreetmap.org/node/3008092655
+35596153,restaurant,Krishna's Kitchen,2026.5,,,,,,,,,,restaurant,17.4357999,78.3946868,node,7025820842,https://www.openstreetmap.org/node/7025820842
+35596153,restaurant,Mustard,2028.0,,,,,,,,,,restaurant,17.4369759,78.3891408,node,7025820810,https://www.openstreetmap.org/node/7025820810
+35596153,restaurant,Aviyal Veg Restaurant,2028.5,,https://www.aviyal.in/,,103 HITEC City Main Road,,,,,,restaurant,17.4470642,78.3783626,node,1802664777,https://www.openstreetmap.org/node/1802664777
+35596153,restaurant,Southwok Restaurant,2028.9,,,,,,,,,,restaurant,17.4378381,78.3871372,node,7021303732,https://www.openstreetmap.org/node/7021303732
+35596153,restaurant,Burgandi,2032.5,,,,,,,,,,restaurant,17.4369089,78.3892028,node,7025820811,https://www.openstreetmap.org/node/7025820811
+35596153,restaurant,Amber,2048.5,,,,,,,,,,restaurant,17.4367771,78.3891419,node,7021303608,https://www.openstreetmap.org/node/7021303608
+35596153,restaurant,Amber,2048.6,,,,,,,,,,restaurant,17.4367769,78.3891418,node,7025820812,https://www.openstreetmap.org/node/7025820812
+35596153,pub,36 DownTown,2076.1,,https://www.36downtownbrewpub.com/,+91-7799967000,735 Rd 36,,"Mo-Th, Su 12:00-00:00; Fr, Sa 12:00-01:00",,,,pub,17.4358323,78.4006704,node,7035151509,https://www.openstreetmap.org/node/7035151509
+35596153,university,Sai Renu Unique High School,2095.3,,,,,,,,,,university,17.4470664,78.4144352,node,7385892268,https://www.openstreetmap.org/node/7385892268
+35596153,restaurant,Melting pot,2099.1,,,,,,,,,,restaurant,17.4414144,78.3812898,node,5515637839,https://www.openstreetmap.org/node/5515637839
+35596153,restaurant,Nala Bhimas Restaurant,2135.9,,,,,,,,,,restaurant,17.4348953,78.3937529,node,7021303737,https://www.openstreetmap.org/node/7021303737
+35596153,restaurant,LEGEND'S FOOD COURT,2158.6,,,+91 7674851859,"94-03 borabanda allahapur road, HYDERABAD, 500018",500018,Mo-Su 11:00-23:00,chinese;regional,,,restaurant,17.4545044,78.4164006,node,10796197655,https://www.openstreetmap.org/node/10796197655
+35596153,restaurant,Telahu,2167.7,,,,,,,,,,restaurant,17.445775,78.3775213,node,3943151563,https://www.openstreetmap.org/node/3943151563
+35596153,restaurant,Barbeque Pride,2220.5,,,,,,,,,,restaurant,17.4348951,78.4022289,node,7021303738,https://www.openstreetmap.org/node/7021303738
+35596153,university,NRI Academy Jubilee Hills,2263.8,,,,,,,,,,university,17.4339646,78.3999765,node,7385438430,https://www.openstreetmap.org/node/7385438430
+35596153,restaurant,Ohri's Nautankigalli,2298.2,,,,"Hitec City Road, Hyderabad",,,,,,restaurant,17.4446507,78.376725,node,7248877416,https://www.openstreetmap.org/node/7248877416
+35596153,restaurant,Chutneys,2299.8,,,,,,,indian,,,restaurant,17.4352133,78.3869412,node,7035236527,https://www.openstreetmap.org/node/7035236527
+35596153,restaurant,Pizza Hut,2362.0,,,,,,,pizza,,Pizza Hut,restaurant,17.4346142,78.386904,node,7035236529,https://www.openstreetmap.org/node/7035236529
+35596153,university,The Loharu Montessori Children's House,2372.6,,,,"869, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4328865,78.3994454,node,7385438431,https://www.openstreetmap.org/node/7385438431
+35596153,restaurant,4 Seasons,2388.7,,,,,,,,,,restaurant,17.4345566,78.3864346,node,7035236531,https://www.openstreetmap.org/node/7035236531
+35596153,university,Dr. BR Ambedkar Open University,2403.6,,,,,,,,,,university,17.4323819,78.3950777,way,277808163,https://www.openstreetmap.org/way/277808163
+35596153,university,"Govt Primary School,Jubilee Hills-Masthan Nagar",2411.8,,,,,,,,,,university,17.4323904,78.3982658,node,7385438438,https://www.openstreetmap.org/node/7385438438
+35596153,restaurant,Fisher Me,2414.3,,,,,,,,,,restaurant,17.4741766,78.3877088,node,6246451485,https://www.openstreetmap.org/node/6246451485
+35596153,restaurant,Pine,2420.9,,,,,,,,,,restaurant,17.4554666,78.37329,way,733460791,https://www.openstreetmap.org/way/733460791
+35596153,restaurant,Aharam,2450.0,,,,,,,,,,restaurant,17.4417612,78.3768381,node,10718148979,https://www.openstreetmap.org/node/10718148979
+35596153,restaurant,Brothers Bawarchi,2474.0,,,,"borabanda allahapur road, HYDERABAD, 500018",500018,,kebab;indian;chicken;seafood,,,restaurant,17.4541799,78.419381,node,6868689295,https://www.openstreetmap.org/node/6868689295
+35596153,pub,Komma the club,2486.3,,,,"Hitec City - Kondapur Main Road, Hyderabad, 500081",500081,,,,,pub,17.4583176,78.3730649,node,12972335838,https://www.openstreetmap.org/node/12972335838
+35596153,restaurant,Mamagoto,2494.5,,,,"Hitec City - Kondapur Main Road, Hyderabad, 500081",500081,,chinese,,,restaurant,17.4580228,78.3729279,node,12972335837,https://www.openstreetmap.org/node/12972335837
+35596153,restaurant,Paradise,2498.7,,,,"Hitec City Road, Hyderabad",,,,,,restaurant,17.4415418,78.3764401,node,7248877414,https://www.openstreetmap.org/node/7248877414
+35596153,pub,Broadway Brewery,2516.9,,,,,,,,,,pub,17.4572909,78.3725866,node,12972335847,https://www.openstreetmap.org/node/12972335847
+35596153,restaurant,Taara South Indian Kitchen,2579.8,,,,"Hitec City - Kondapur Main Road, Hyderabad, 500084",500084,,indian,,,restaurant,17.4573947,78.3720037,node,12972335840,https://www.openstreetmap.org/node/12972335840
+35596153,university,Shriram Montessori Road No. 46 Branch,2606.2,,,,"G Rami Reddy Marg, Silent Valley hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4305637,78.3971694,node,7385438436,https://www.openstreetmap.org/node/7385438436
+35596153,restaurant,Erra Karam,2617.6,,,,,,,,,,restaurant,17.4360976,78.4121092,node,11084969227,https://www.openstreetmap.org/node/11084969227
+35596153,restaurant,Something Fishy,2618.8,,,,,,,,,,restaurant,17.4314951,78.3887075,node,660914316,https://www.openstreetmap.org/node/660914316
+35596153,pub,Hall of Fame,2623.8,,,,,,,,,,pub,17.4326693,78.4066828,node,813570526,https://www.openstreetmap.org/node/813570526
+35596153,restaurant,The Spicy Venue,2627.5,,,,,,,,,,restaurant,17.4350836,78.4109333,way,356287939,https://www.openstreetmap.org/way/356287939
+35596153,restaurant,4 Seasons,2630.7,,,,,,,,,,restaurant,17.4580493,78.3716287,node,1042239866,https://www.openstreetmap.org/node/1042239866
+35596153,restaurant,Swaraaj military hotel,2632.1,,,,"Hyderabad, 500084",500084,,indian,,,restaurant,17.4581003,78.3716247,node,12972335836,https://www.openstreetmap.org/node/12972335836
+35596153,restaurant,Maryada Ramanna,2638.6,,,,"Hyderabad, 500084",500084,,indian,,,restaurant,17.4581097,78.3715642,node,12972335835,https://www.openstreetmap.org/node/12972335835
+35596153,university,Walden's Path School,2645.3,,,,"Plot No. 909, Rd Number 46, Silent Valley hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4302024,78.3952,way,852980145,https://www.openstreetmap.org/way/852980145
+35596153,restaurant,Flavors,2645.6,,,,,,,,,,restaurant,17.4581306,78.3715006,node,6257498485,https://www.openstreetmap.org/node/6257498485
+35596153,restaurant,ITC Kohenur,2648.4,,,,,,,,,,restaurant,17.4324002,78.3854882,node,6633197605,https://www.openstreetmap.org/node/6633197605
+35596153,university,Little Star high school,2651.8,,,,"Road no.10, opp lane to diamond house,gayatri hills,jubilee hills, Hyderabad, Telangana 500033",,,,,,university,17.4377049,78.4143329,node,7385892261,https://www.openstreetmap.org/node/7385892261
+35596153,restaurant,Seven Sisters,2675.4,,,,,,,asian;japanese;indonesian;thai,,,restaurant,17.4682741,78.3757716,node,12976196537,https://www.openstreetmap.org/node/12976196537
+35596153,restaurant,Blue Fox,2677.5,,,,,,,indian,,,restaurant,17.4582743,78.3712218,node,7121846779,https://www.openstreetmap.org/node/7121846779
+35596153,restaurant,Club Jayabheri,2683.9,,,,,,,,,,restaurant,17.460477,78.3716908,node,1042239873,https://www.openstreetmap.org/node/1042239873
+35596153,restaurant,The Hoppery,2710.4,,,,,,,vietnamese,,,restaurant,17.4300591,78.3911379,node,6997870508,https://www.openstreetmap.org/node/6997870508
+35596153,university,Hillside School,2719.5,,,,"Rd Number 46, Silent Valley hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4295448,78.3949197,way,852980144,https://www.openstreetmap.org/way/852980144
+35596153,university,Sloka Kindergarten School,2725.7,,,,"Diamond House, Door No 8-2-293/82/A Plot No 281 K, Road No 10 C Opp Diamond House Lane Opp, Lane, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4361015,78.4136397,node,7385438463,https://www.openstreetmap.org/node/7385438463
+35596153,restaurant,santosh family dabha,2779.1,,,,,,,,,,restaurant,17.455022,78.4222353,node,7171334826,https://www.openstreetmap.org/node/7171334826
+35596153,restaurant,syala drive in,2784.9,,,,,,,,,,restaurant,17.4344814,78.4125384,way,768455933,https://www.openstreetmap.org/way/768455933
+35596153,pub,Prost,2810.4,,https://www.prost.in/,+91-9100921161,1026 Rd 45,,"Mo-Th, Su 12:00-00:00; Fr, Sa 12:00-01:00",,,,pub,17.4295289,78.402777,node,11597256217,https://www.openstreetmap.org/node/11597256217
+35596153,restaurant,RS Dhaba Restaurant,2829.3,,,,,,,,,,restaurant,17.4511433,78.3695527,node,13287712047,https://www.openstreetmap.org/node/13287712047
+35596153,restaurant,One Drive In,2830.4,,,,,,,,,,restaurant,17.4344323,78.4131522,way,960681062,https://www.openstreetmap.org/way/960681062
+35596153,restaurant,Surabhi Restaurant,2831.9,,,,,,,,,,restaurant,17.4552469,78.4227224,node,2835242778,https://www.openstreetmap.org/node/2835242778
+35596153,university,CHIREC International School Jubilee Hills Campus,2857.7,,,,"Plot No, 962, Rd Number 48, Silent Valley hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4284153,78.3988434,node,7385438418,https://www.openstreetmap.org/node/7385438418
+35596153,restaurant,Mandi@36,2870.9,,,,,,,,,,restaurant,17.4307294,78.4078308,node,6409579586,https://www.openstreetmap.org/node/6409579586
+35596153,restaurant,Madina Hotel,2889.7,,,,,,,,,,restaurant,17.4510666,78.3689889,node,13287712051,https://www.openstreetmap.org/node/13287712051
+35596153,university,Indian Public School,2889.8,,,,"270f, Road Number 10, Gayatri Hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4354043,78.4151125,node,7385438464,https://www.openstreetmap.org/node/7385438464
+35596153,restaurant,Rayudu family restarant,2902.4,,,,,,,,,,restaurant,17.454076,78.4234206,node,7171334823,https://www.openstreetmap.org/node/7171334823
+35596153,pub,F Cafe and Lounge,2905.9,,,,,,,,,,pub,17.4573565,78.3688935,node,1041886458,https://www.openstreetmap.org/node/1041886458
+35596153,pub,Heart Cup Cafe,2929.4,,,,,,,,,,pub,17.4573611,78.3686709,node,1039462524,https://www.openstreetmap.org/node/1039462524
+35596153,restaurant,Jubilee Hills Peddammathalli Mess,2940.6,,,,,,,,,,restaurant,17.4290022,78.4051709,node,6213051886,https://www.openstreetmap.org/node/6213051886
+35596153,university,KLH University GBS,2957.9,,,,,,,,,,university,17.4612654,78.36924,node,13308072626,https://www.openstreetmap.org/node/13308072626
+35596153,restaurant,Drive N' Dine - Drive in Restaurant,2964.9,,https://drive-n-dine.business.site/,+91 81218 00555,"68 Casa Rouge Lane, Hyderabad, 500081",500081,Mo-Su 09:00-02:00,,,,restaurant,17.4633797,78.3699023,way,551247982,https://www.openstreetmap.org/way/551247982
+35596153,restaurant,Heart Cup Coffee,2976.9,,,,"B 7 & 8 Jubilee Garden, Behind TCS Building, E Park, Kothaguda, Land Mark Residency, Kothaguda, Hyderabad, 500084",500084,10:00-24:00,pizza;burger;coffee_shop;regional,,,restaurant,17.459714,78.3686459,way,356548235,https://www.openstreetmap.org/way/356548235
+35596153,restaurant,Jamun Hyderabad,3015.8,,,,,,,,,,restaurant,17.4340135,78.4153013,way,356234471,https://www.openstreetmap.org/way/356234471
+35596153,restaurant,,3018.5,,,,,,,,,,restaurant,17.4662155,78.3706572,node,3393657297,https://www.openstreetmap.org/node/3393657297
+35596153,university,Kidzee Jubileehills Play School,3022.9,,,,"behind Goutam vidhayaniketan bhagavathinagar, Gayatri Hills, Jubilee Hills, jubileehills road no-11, Telangana 500045",,,,,,university,17.436004,78.4174383,node,7385892259,https://www.openstreetmap.org/node/7385892259
+35596153,restaurant,The Pavilion Drive-In,3030.2,,http://www.thepaviliondrivein.com,+91 9000680004,"1014/C, Rd No. 51 CBI Colony, Jubilee Hills,, Hyderabad, 500033",500033,Mo-Su 10:00-22:00,burger;regional;pizza;italian_pizza;italian;coffee_shop;sandwich;american;milkshake,,,restaurant,17.4274415,78.4025575,way,889543541,https://www.openstreetmap.org/way/889543541
+35596153,restaurant,Blue Star Restaurant,3032.9,,,,,,,chinese;chicken;indian;kebab;fish,,,restaurant,17.450874,78.4244652,node,11084918124,https://www.openstreetmap.org/node/11084918124
+35596153,restaurant,Midland bakery,3037.9,,,,Rajiv nagar X road,,,burger,,,restaurant,17.4507555,78.4244982,node,2835235995,https://www.openstreetmap.org/node/2835235995
+35596153,restaurant,Akshya Tiffens,3040.2,,,,,,Mo-Su 09:00-21:00,regional;indian,,,restaurant,17.4504985,78.4244868,node,8107785189,https://www.openstreetmap.org/node/8107785189
+35596153,restaurant,PANCHABHAKSHYA,3048.1,,https://panchabhakshya.com,,"10 KPHB 5th Phase Road, Hyderabad, 500072",500072,,indian;chinese,,,restaurant,17.4812942,78.3936572,way,901041083,https://www.openstreetmap.org/way/901041083
+35596153,university,Goutham Vidya Niketan,3050.0,,,,"8-3-229/B/43/1, Gayatri Hills, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4359805,78.4177569,node,7385892260,https://www.openstreetmap.org/node/7385892260
+35596153,restaurant,Momadia Shawarma,3051.8,,,,,,,,,,restaurant,17.4761087,78.4130751,way,356176894,https://www.openstreetmap.org/way/356176894
+35596153,restaurant,Chutneys,3061.3,,,,,,,,,,restaurant,17.4296732,78.4096135,node,6312938485,https://www.openstreetmap.org/node/6312938485
+35596153,restaurant,Naatu,3106.0,,,,,,,,,,restaurant,17.4299749,78.4110349,node,10790477557,https://www.openstreetmap.org/node/10790477557
+35596153,restaurant,Krishnapatnam,3123.9,,,,,,,,,,restaurant,17.4299418,78.4113051,node,10790483073,https://www.openstreetmap.org/node/10790483073
+35596153,pub,Club rogue,3125.5,,,,,,,,,,pub,17.4297641,78.4110228,node,7114012186,https://www.openstreetmap.org/node/7114012186
+35596153,restaurant,President Dhaba,3127.3,,,,,,,,,,restaurant,17.4299533,78.4113857,node,10790483074,https://www.openstreetmap.org/node/10790483074
+35596153,pub,Haveli Bar Restaurant,3168.0,,,,,,,,,,pub,17.4615417,78.3672648,node,1215228606,https://www.openstreetmap.org/node/1215228606
+35596153,restaurant,Parathas,3178.9,,,,,,,regional,,,restaurant,17.4620094,78.3672971,node,3554603086,https://www.openstreetmap.org/node/3554603086
+35596153,restaurant,Hashi,3199.2,,,,,,,,,,restaurant,17.4337187,78.4174728,way,356459249,https://www.openstreetmap.org/way/356459249
+35596153,restaurant,Angaara,3199.8,,,+919640884010,,,,,,,restaurant,17.4597233,78.3665008,node,1215790311,https://www.openstreetmap.org/node/1215790311
+35596153,restaurant,Bawarichi,3207.0,,,,,,,,,,restaurant,17.4612961,78.3668145,node,1215251806,https://www.openstreetmap.org/node/1215251806
+35596153,restaurant,Oysters Blue,3210.7,,,,,,,indian,,,restaurant,17.4582319,78.3661208,node,1215250883,https://www.openstreetmap.org/node/1215250883
+35596153,university,"Happy Kids School and International Montessori Teachers Training , PPTC, NTTC COURCES",3212.2,,,,"Sravanthi Nagar, ICRISAT Colony, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4340723,78.418004,node,7385438467,https://www.openstreetmap.org/node/7385438467
+35596153,restaurant,,3214.6,,,,,,,,,,restaurant,17.4616651,78.3668443,node,7246491294,https://www.openstreetmap.org/node/7246491294
+35596153,restaurant,Tom Yum Yum,3215.6,,,,,,,,,,restaurant,17.4297031,78.4125334,node,5375596703,https://www.openstreetmap.org/node/5375596703
+35596153,restaurant,Spice Village,3216.9,,,,,,,,,,restaurant,17.4619106,78.3668939,node,1215243542,https://www.openstreetmap.org/node/1215243542
+35596153,restaurant,The Square,3217.4,,,,,,,international,,,restaurant,17.472641,78.372879,node,3558158456,https://www.openstreetmap.org/node/3558158456
+35596153,restaurant,Siddique Kebab,3237.4,,,,Gachibowli - Miyapur Highway,,Mo-Su 16:00-23:00,,,,restaurant,17.4610271,78.3664467,node,6855217386,https://www.openstreetmap.org/node/6855217386
+35596153,restaurant,Plaza,3237.6,,,,,,,,,,restaurant,17.4572259,78.3657271,way,1500229722,https://www.openstreetmap.org/way/1500229722
+35596153,restaurant,BARBEQUE NATION,3245.0,,,,,,,indian,,,restaurant,17.4572805,78.3656635,node,13737411702,https://www.openstreetmap.org/node/13737411702
+35596153,restaurant,Roll Cal,3249.7,,,,,,,kebab,,,restaurant,17.4596243,78.3659996,node,1452415913,https://www.openstreetmap.org/node/1452415913
+35596153,restaurant,Minerva,3251.7,,,,,,,regional,,,restaurant,17.4594714,78.3659499,node,3554603085,https://www.openstreetmap.org/node/3554603085
+35596153,university,STAR GLOBAL SCHOOL,3253.4,,,,"5, Rd Number 10 B APSFC Colony, Hylam Colony, Rd Number 10 B, APSFC Colony, Hylam Colony, Jubilee Hills, Hyderabad, Telangana 500045",,,,,,university,17.4345944,78.4190319,node,7397325527,https://www.openstreetmap.org/node/7397325527
+35596153,restaurant,HighLand NonVeg,3283.9,,,,,,,,,,restaurant,17.4644587,78.3671147,node,1215750038,https://www.openstreetmap.org/node/1215750038
+35596153,university,Walter Memorial High School,3285.1,,,,"Yousufguda, Police Line (1st Bn A.P.S.P), Jubilee Hills Check Post Rd, Venkatagiri, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4357487,78.4204287,node,7397325526,https://www.openstreetmap.org/node/7397325526
+35596153,restaurant,Tasty Food TamilNadu cuisine,3363.6,,,,,,,indian,,,restaurant,17.46463,78.3663797,node,1215744396,https://www.openstreetmap.org/node/1215744396
+35596153,restaurant,Punjabi Tadka,3364.4,,,,"Hyderabad, 500084",500084,,,,,restaurant,17.462468,78.365615,node,6937779968,https://www.openstreetmap.org/node/6937779968
+35596153,restaurant,Rasooi Ghar,3376.9,,,,"Gachibowli - Miyapur Highway, Hyderabad, 500084",500084,,,,,restaurant,17.4580968,78.3645179,node,7611073843,https://www.openstreetmap.org/node/7611073843
+35596153,university,Disha Schools,3377.2,,,,"Plot No. 6, House No, 8-3-230/A/6, Road Number 10, APSFC Colony, Venkatagiri, Jubilee Hills, Hyderabad, Telangana 500045",,,,,,university,17.4338968,78.4199433,node,7397325528,https://www.openstreetmap.org/node/7397325528
+35596153,restaurant,Samskruthi Hotel,3391.5,,,,"Gachibowli - Miyapur Highway, Hyderabad, 500082",500082,,,,,restaurant,17.4507279,78.3642689,node,7043416947,https://www.openstreetmap.org/node/7043416947
+35596153,restaurant,TGI Fridays,3393.5,,https://www.tgifridays.com/,04067684205,"4th floor, forum srujana mall, s-16 Hitec - Kukatpally Main Road, Hyderabad, 500072",500072,Mo-Su 12:00-24:00,american;italian,,,restaurant,17.4837372,78.3889703,node,11358156630,https://www.openstreetmap.org/node/11358156630
+35596153,restaurant,Barbeque Nation,3401.8,,https://www.barbequenation.com/restaurants/hyderabad/kukatpally?utm_source=GMB&utm_medium=hyderabad_kukatpally&utm_campaign=GMB_hyderabad_kukatpally,09121223361,"resturant no:2,nexus mall Hitec - Kukatpally Main Road, Hyderabad, 500072",500072,12:00-23:45,barbecue,,,restaurant,17.4837947,78.3888791,node,11358156631,https://www.openstreetmap.org/node/11358156631
+35596153,restaurant,Khandani Rajdhani,3421.3,,,04030534131,"level 3,nexus mall Hitec - Kukatpally Main Road, Hyderabad, 500072",500072,Mo-Su 12:00-23:00,indian,,,restaurant,17.4840544,78.3892573,node,11358156629,https://www.openstreetmap.org/node/11358156629
+35596153,restaurant,Udipi's Aahar,3442.7,,,,,,,,,,restaurant,17.449277,78.3639805,node,9958221196,https://www.openstreetmap.org/node/9958221196
+35596153,restaurant,Bihari Mama Hotel,3454.0,,,,"police colny road, Hyderabad, 500084",500084,,,,,restaurant,17.4646284,78.3654699,node,7608736502,https://www.openstreetmap.org/node/7608736502
+35596153,university,Sri Sai Ram High School,3466.2,,,,"Hylam Colony, Jubilee Hills, Hyderabad, Telangana 500045",,,,,,university,17.4346594,78.4217025,node,7385438469,https://www.openstreetmap.org/node/7385438469
+35596153,restaurant,Malgudi Restaurant,3475.3,,,,,,,,,,restaurant,17.4846794,78.3899283,node,349018446,https://www.openstreetmap.org/node/349018446
+35596153,restaurant,Athidi Aahar,3477.6,,,,,,,,,,restaurant,17.47325,78.42188,node,6822126500,https://www.openstreetmap.org/node/6822126500
+35596153,restaurant,Hyderabadi dawat,3479.7,,,,,,,,,,restaurant,17.4497953,78.3635491,node,6036830618,https://www.openstreetmap.org/node/6036830618
+35596153,pub,10 Downing Street,3481.1,,,,,,,,,,pub,17.4526995,78.3632696,node,7123865288,https://www.openstreetmap.org/node/7123865288
+35596153,restaurant,Bezawada Bhojanam,3487.3,,,,"police colny road, Hyderabad, 500084",500084,,,,,restaurant,17.4648665,78.3652279,node,7608583804,https://www.openstreetmap.org/node/7608583804
+35596153,restaurant,Chaitanya Banquet Hall,3510.8,,,,,,,,,,restaurant,17.4851435,78.3907576,way,621792361,https://www.openstreetmap.org/way/621792361
+35596153,restaurant,chaitanya food court,3514.3,,,,,,,,,,restaurant,17.4851485,78.3905901,node,7180156933,https://www.openstreetmap.org/node/7180156933
+35596153,restaurant,Chaitanya Food Court,3514.9,,,,,,,,,,restaurant,17.4851543,78.3905913,way,332095970,https://www.openstreetmap.org/way/332095970
+35596153,restaurant,Sri Forum Food Court,3526.4,,,,,,,chicken;coffee_shop;kebab,,,restaurant,17.4850311,78.3893103,way,340062816,https://www.openstreetmap.org/way/340062816
+35596153,restaurant,M R C Chicken Dum Biryani,3547.2,,,,,,,chicken,,,restaurant,17.4851625,78.3890135,node,5873950223,https://www.openstreetmap.org/node/5873950223
+35596153,restaurant,Pista House,3563.2,,,,,,,,,Pista House,restaurant,17.4316137,78.3720027,node,10790318144,https://www.openstreetmap.org/node/10790318144
+35596153,university,SHIVAJI VIDYA PEETH HIGH SCHOOL,3607.7,,,,"PLOT NO: 50, ROAD NO;72,Prasasan Nagar,, Andhra Jyothi Back Side Road, Jubilee Hills, Hyderabad, Telangana 500033",,,,,,university,17.4223811,78.4037842,node,7385438439,https://www.openstreetmap.org/node/7385438439
+35596153,restaurant,Al saba resturant,3610.3,,,,,,,,,,restaurant,17.4336913,78.3694867,node,5405054245,https://www.openstreetmap.org/node/5405054245
+35596153,restaurant,Abhiruchi,3613.1,,,,,,,,,,restaurant,17.4857281,78.3888152,node,6249187285,https://www.openstreetmap.org/node/6249187285
+35596153,restaurant,Madhura Mexican Fried Chicken,3614.5,,,,,,,,,,restaurant,17.4855824,78.38809,node,6261508385,https://www.openstreetmap.org/node/6261508385
+35596153,restaurant,ginger spice restaurant,3616.5,,,,,,Mo-Sa 07:00-22:00,regional,,,restaurant,17.4381813,78.3662574,way,546498877,https://www.openstreetmap.org/way/546498877
+35596153,restaurant,Fit food company,3634.0,,,,,,,,,,restaurant,17.4290692,78.4182366,node,7113998188,https://www.openstreetmap.org/node/7113998188
+35596153,restaurant,annapoorna,3646.1,,,,,,,indian,,,restaurant,17.4692692,78.3656517,node,1699060676,https://www.openstreetmap.org/node/1699060676
+35596153,restaurant,Dine o China,3649.0,,,,,,,chinese,,,restaurant,17.4366907,78.3668204,node,4784090874,https://www.openstreetmap.org/node/4784090874
+35596153,restaurant,Hyderama,3649.6,,,,,,,,,,restaurant,17.4312883,78.3712001,node,10790345914,https://www.openstreetmap.org/node/10790345914
+35596153,restaurant,Palamuru Grill,3652.0,,,,,,,fish;chicken;kebab;grill,,,restaurant,17.4698617,78.3659233,node,4680378091,https://www.openstreetmap.org/node/4680378091
+35596153,college,Vivekananda Degree Collage,3654.0,,,,,,,,,,college,17.4825333,78.4131063,node,8389425003,https://www.openstreetmap.org/node/8389425003
+35596153,restaurant,cafe nandini,3655.1,,,,,,,,,,restaurant,17.4268355,78.415495,node,3384147271,https://www.openstreetmap.org/node/3384147271
+35596153,restaurant,rv spice,3657.4,,,,,,,,,,restaurant,17.4865376,78.3911763,node,7246517950,https://www.openstreetmap.org/node/7246517950
+35596153,college,Goverment Degree College,3657.8,,,,,,,,,,college,17.4811403,78.4155109,node,9887230591,https://www.openstreetmap.org/node/9887230591
+35596153,college,vinjee junior college,3659.6,,,,,,,,,,college,17.482439,78.4133842,node,12596331431,https://www.openstreetmap.org/node/12596331431
+35596153,university,Sri Sai Kiran high School,3671.7,,,,,,,,,,university,17.4333617,78.4230964,node,7397325529,https://www.openstreetmap.org/node/7397325529
+35596153,college,Prathiba Degree Collage for Women,3672.4,,,,,,,,,,college,17.4828497,78.4128695,node,8389425004,https://www.openstreetmap.org/node/8389425004
+35596153,restaurant,Shah Ghouse,3679.9,,,,"Old Bombay Highway, Hyderabad",,,,,,restaurant,17.4266793,78.3764491,node,7248877413,https://www.openstreetmap.org/node/7248877413
+35596153,college,Narayana Junior College ( Jaya Complex),3687.0,,,,Kukkatpally Main Road - Mumbai Highway,,,,,,college,17.4828168,78.4132134,node,6429440287,https://www.openstreetmap.org/node/6429440287
+35596153,restaurant,Pulav curry rice,3689.2,,,,,,,,,,restaurant,17.4378258,78.3656803,node,5405058516,https://www.openstreetmap.org/node/5405058516
+35596153,restaurant,Pakwan Grand,3693.3,,,,"Old Bombay Highway, Hyderabad",,,regional;kebab;indian;chicken,,,restaurant,17.4260706,78.3771794,node,7248877412,https://www.openstreetmap.org/node/7248877412
+35596153,restaurant,Pizza Hut,3700.6,,,,,,,pizza,,Pizza Hut,restaurant,17.4308915,78.4211849,node,13536769326,https://www.openstreetmap.org/node/13536769326
+35596153,restaurant,,3702.3,,,,,,,,,,restaurant,17.4549551,78.3611717,node,13273739351,https://www.openstreetmap.org/node/13273739351
+35596153,restaurant,The Hive Drive In,3702.3,,,9502974033,"1&24 sri sai hills gokul plots, hyderabad, 500085",500085,,burger;pizza;chinese;italian;ice_cream;milk_shakes;thick_shakes;tiffins;shawarma;biryani;roti;currie;south_indian;north_indian;tea;bubble_tea;coffee_shop;frankie;rice_bowls;fry_chicken;pasta;wraps,,,restaurant,17.4840112,78.3809912,way,416986626,https://www.openstreetmap.org/way/416986626
+35596153,restaurant,13 Dhaba,3711.9,,,,Gachibowli Flyover,,,,,,restaurant,17.4375004,78.3656273,node,5405055149,https://www.openstreetmap.org/node/5405055149
+35596153,restaurant,UP THE BISTRO,3713.3,,,,Telecom nagar,,,,,,restaurant,17.4358331,78.3666724,node,5405056434,https://www.openstreetmap.org/node/5405056434
+35596153,restaurant,Ulavucharu,3738.9,,,,,,,indian,,,restaurant,17.4240217,78.4120683,node,5980853188,https://www.openstreetmap.org/node/5980853188
+35596153,college,St. Mary's College,3745.9,,,,Yousufguda Main Road,,,,,,college,17.4372208,78.426692,node,5122844921,https://www.openstreetmap.org/node/5122844921
+35596153,university,Sri Sairam High School,3758.7,,,,"8-3-230/1/B, Venkatagiri, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4344136,78.4249541,node,7397325524,https://www.openstreetmap.org/node/7397325524
+35596153,restaurant,Punjabi Rasoi AC,3760.1,,,,,,,indian,,,restaurant,17.4389632,78.3642986,node,1224527821,https://www.openstreetmap.org/node/1224527821
+35596153,college,Sri Chaitanya Jr.College,3761.0,,,,"Balaji Nagar, Hyderabad",,,,,,college,17.4847047,78.410879,way,331794446,https://www.openstreetmap.org/way/331794446
+35596153,restaurant,,3765.5,,,,,,,,,,restaurant,17.4248111,78.4140951,node,4422249978,https://www.openstreetmap.org/node/4422249978
+35596153,restaurant,ZARA Hi-Fi,3769.5,,,,Gachibowli - Miyapur Highway,,Mo-Su 11:00-23:00,,,,restaurant,17.4399027,78.363732,node,6982568886,https://www.openstreetmap.org/node/6982568886
+35596153,restaurant,Telangana Spice Kitchen Bar&Grill,3770.4,,,,,,,,,,restaurant,17.428695,78.4197433,way,356458936,https://www.openstreetmap.org/way/356458936
+35596153,restaurant,Chak de restaurant,3773.6,,,,beside senco gold and jewellers,,,,,,restaurant,17.4395223,78.3638742,node,5405060691,https://www.openstreetmap.org/node/5405060691
+35596153,restaurant,Madhura,3799.7,,,,,,,,,,restaurant,17.4867119,78.385778,node,6261536395,https://www.openstreetmap.org/node/6261536395
+35596153,university,Joyce: The Play School,3804.8,,,,"Plot No: 24, Opp: St.Mary's College, Tahir Ville, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4365512,78.4269263,node,7397325517,https://www.openstreetmap.org/node/7397325517
+35596153,restaurant,Chicken kabab,3813.6,,,,,,,indian,,,restaurant,17.4391462,78.3636441,node,1224527813,https://www.openstreetmap.org/node/1224527813
+35596153,restaurant,Stellar Reserve,3826.6,,https://g.co/kgs/cVeFMcB,+919030187773,"303, Road No. 1 Nandagiri Hills, Jubilee Hills, Hyderabad, 500033",500033,Mo-Su 07:00-24:00,american;italian;bakery;asian;cafe;burger;pizza,,,restaurant,17.4226437,78.4109735,node,12695800228,https://www.openstreetmap.org/node/12695800228
+35596153,restaurant,Y9 Cafe & Restuarant,3845.3,,,,DLF Road,,,,,,restaurant,17.4484432,78.3602756,node,6982568887,https://www.openstreetmap.org/node/6982568887
+35596153,university,SGB Model High School,3869.0,,,,"8-3-228/N/I, Check Post Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4376017,78.4282397,node,7397325518,https://www.openstreetmap.org/node/7397325518
+35596153,college,,3884.9,,,,,,,,,,college,17.4885674,78.3908997,way,738271180,https://www.openstreetmap.org/way/738271180
+35596153,university,Sai Krupa High School,3886.7,,,,"B-352, near Community Hall, Sri Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4329953,78.4253617,node,7397325523,https://www.openstreetmap.org/node/7397325523
+35596153,university,Unique Public School,3918.2,,,,"Sri Krishna Nagar, Yousufguda Basti, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4324097,78.4252678,node,7397325522,https://www.openstreetmap.org/node/7397325522
+35596153,restaurant,HOLY KITCHEN,3945.1,,,+91 9441334553,"8-3-231/c/9&10 Yousufguda Main Road, hyderabad, 500045",500045,Mo-Su 11:00-23:00,chinese;thai,,,restaurant,17.4332799,78.4262644,node,7874934614,https://www.openstreetmap.org/node/7874934614
+35596153,restaurant,Bawarchi Restaurant,3959.1,,,,"Yousufguda Main Road, hyderabad, 500045",500045,,indian;kebab;chicken,,,restaurant,17.4368021,78.4287507,node,6936829973,https://www.openstreetmap.org/node/6936829973
+35596153,restaurant,Palleturi Dosa,3964.7,,,,,,,,,,restaurant,17.4484768,78.3591308,node,13285248842,https://www.openstreetmap.org/node/13285248842
+35596153,college,,3975.6,,,,,,,,,,college,17.4354068,78.3640338,way,558285165,https://www.openstreetmap.org/way/558285165
+35596153,restaurant,Mojo Pizza,3994.6,,,,,,,pizza,,,restaurant,17.4484906,78.3588434,node,13285248840,https://www.openstreetmap.org/node/13285248840
+35596153,restaurant,Bharateeyam The Indian Cusine,4020.9,,,+919032605222,"s2, survey 1050 JNTU Road, Hyderabad, 500072",500072,Mo-Su 10:00-21:00,indian;regional;coffee_shop;chicken;chinese;kebab;seafood;fish;diner,,,restaurant,17.4900031,78.3927832,node,13064757269,https://www.openstreetmap.org/node/13064757269
+35596153,restaurant,Udupi Uphar,4022.8,,,,,,,indian,,,restaurant,17.4409145,78.360695,node,1985561846,https://www.openstreetmap.org/node/1985561846
+35596153,university,Vidya Niketan High School,4028.1,,,,"Sri Krishna Nagar, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.433945,78.4276962,node,7397325530,https://www.openstreetmap.org/node/7397325530
+35596153,university,Sri Sairam High School,4032.4,,,,"A-Block, Sri Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4330818,78.4271267,node,7397325532,https://www.openstreetmap.org/node/7397325532
+35596153,restaurant,Santosh dhaba,4034.6,,,,,,,,,,restaurant,17.4410918,78.3605047,node,5405056315,https://www.openstreetmap.org/node/5405056315
+35596153,university,Samskar Global High School,4037.0,,,,"8-3-234/283, Lakshmi Narasimha Nagar, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4352522,78.4286618,node,7398541393,https://www.openstreetmap.org/node/7398541393
+35596153,restaurant,Cafe Nandini,4049.9,,,,"Old Bombay Road, Hyderabad, 500032",500032,,indian,,,restaurant,17.4411629,78.3603222,node,2957337541,https://www.openstreetmap.org/node/2957337541
+35596153,restaurant,M/s. Grills N Chills,4050.0,,,+91 73374 73800,"flat no 9 Kalyan Nagar Cross Road, Hyderabad, 500038",500038,Mo-Su 13:00-22:00,kebab;indian;chinese;chicken,,,restaurant,17.4442222,78.4328434,node,8107755744,https://www.openstreetmap.org/node/8107755744
+35596153,university,Amaravathi High School,4059.3,,,,"Sri Krishna Nagar, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4332692,78.4275719,node,7397325531,https://www.openstreetmap.org/node/7397325531
+35596153,restaurant,Oh My Grill,4065.2,,,,,,,,,,restaurant,17.4422359,78.4323511,node,8909248520,https://www.openstreetmap.org/node/8909248520
+35596153,restaurant,Hderabad restaurant,4078.8,,https://hyderabadrestaurant.com/,04412123344,Yusufguda basti Basti,,Mo-Su 10:00-22:00,chinese;biryani,,,restaurant,17.4419092,78.432369,node,9903874812,https://www.openstreetmap.org/node/9903874812
+35596153,restaurant,ManiChandana Restaurant,4084.1,,,,,,Mo-Su 10:00-00:00,,,,restaurant,17.4414246,78.3598766,node,5826347075,https://www.openstreetmap.org/node/5826347075
+35596153,restaurant,Emerald Mithai Shop,4089.9,,,,,,,indian,,,restaurant,17.4208817,78.3792387,node,13423220019,https://www.openstreetmap.org/node/13423220019
+35596153,college,Vaishnavi College For Distance Education,4103.2,,,,,,,,,,college,17.4908744,78.3966418,node,6850830255,https://www.openstreetmap.org/node/6850830255
+35596153,university,Sri Sairam High School Main Branch,4107.6,,,,"A-264, Sri Nagar Colony, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4329259,78.4278769,node,7398511183,https://www.openstreetmap.org/node/7398511183
+35596153,restaurant,Napasang restaurant,4109.2,,,,,,,,,,restaurant,17.4414984,78.359597,node,3943151562,https://www.openstreetmap.org/node/3943151562
+35596153,restaurant,Manpasand Veg restaurant,4115.3,,,,,,,indian,,,restaurant,17.4419399,78.359374,node,2550415995,https://www.openstreetmap.org/node/2550415995
+35596153,restaurant,Sai Durga Family Restuarant,4122.0,,,,,,,,,,restaurant,17.4440228,78.43349,node,8909248526,https://www.openstreetmap.org/node/8909248526
+35596153,restaurant,Hi-Tech Bawarchi Multi Cuisine Restaurant,4122.7,,,088856 14567,"Near KFC , Rajiv gandhi Nagar, Gachibowli,, Hyderabad, 500032",500032,Mo-Su 12:00-23:00,regional;kebab;indian,,,restaurant,17.4437602,78.3586988,node,6864399992,https://www.openstreetmap.org/node/6864399992
+35596153,restaurant,Sanman Tiffins,4127.0,,,,,,,,,,restaurant,17.45333,78.434959,node,6847914720,https://www.openstreetmap.org/node/6847914720
+35596153,college,Ayurvedic College,4135.8,,,,,,,,,,college,17.4483393,78.4345971,way,417277369,https://www.openstreetmap.org/way/417277369
+35596153,restaurant,Si Nonna's,4137.9,,,,,,,pizza,,,restaurant,17.4202396,78.3796007,node,13409224011,https://www.openstreetmap.org/node/13409224011
+35596153,university,Sri Sai Public School,4139.3,,,,,,,,,,university,17.4330098,78.4283,node,7398511184,https://www.openstreetmap.org/node/7398511184
+35596153,restaurant,Sri Vindha Tiffins,4142.8,,,,,,,,,,restaurant,17.4488664,78.3573731,node,13285248838,https://www.openstreetmap.org/node/13285248838
+35596153,restaurant,Bawarchi,4147.4,,,,,,,,,,restaurant,17.4413007,78.3592893,way,466872240,https://www.openstreetmap.org/way/466872240
+35596153,restaurant,Udupy Ahar,4149.8,,,,,,,regional,,,restaurant,17.4912009,78.3932388,way,251804591,https://www.openstreetmap.org/way/251804591
+35596153,restaurant,Keshav Reddy Sweets,4154.0,,,,,,,indian,,,restaurant,17.4200353,78.379703,node,13423220018,https://www.openstreetmap.org/node/13423220018
+35596153,restaurant,Hospital Canteen,4166.1,,,,"H.N.1-6, National Highway, No. 9, Kukatpally, Hyderabad, Telangana 500072, Hyderabad, 500072",500072,,,,,restaurant,17.4900345,78.4067309,node,7180147129,https://www.openstreetmap.org/node/7180147129
+35596153,restaurant,Pizza Hut,4177.0,,,,,,,pizza,,Pizza Hut,restaurant,17.4414476,78.3589374,node,5405056143,https://www.openstreetmap.org/node/5405056143
+35596153,college,Engineering Staff College of India,4177.6,,,,,,,,,,college,17.4269005,78.3687591,way,547033112,https://www.openstreetmap.org/way/547033112
+35596153,restaurant,SITARA FOODS,4178.5,,,,,,,,,,restaurant,17.443536,78.433898,node,6822126615,https://www.openstreetmap.org/node/6822126615
+35596153,restaurant,Desi Chai Adda,4179.5,,,,,,,coffee_shop,,,restaurant,17.4696171,78.3602286,node,11747949473,https://www.openstreetmap.org/node/11747949473
+35596153,college,National Institute of Urban Management,4184.6,,,,,,,,,,college,17.4368007,78.3609606,node,5625457796,https://www.openstreetmap.org/node/5625457796
+35596153,restaurant,The Clay Pot,4187.8,,,,,,,indian,,,restaurant,17.425069,78.4213612,node,1883409259,https://www.openstreetmap.org/node/1883409259
+35596153,restaurant,,4190.9,,,,,,,,,,restaurant,17.4913956,78.3913231,node,3509616384,https://www.openstreetmap.org/node/3509616384
+35596153,restaurant,Berry Cool,4193.3,,,,,,,ice_cream,,,restaurant,17.425056,78.4214256,node,1885682076,https://www.openstreetmap.org/node/1885682076
+35596153,restaurant,juices and fast food,4196.2,,,,,,,,,,restaurant,17.4411442,78.3588597,node,13088224018,https://www.openstreetmap.org/node/13088224018
+35596153,restaurant,Eat Well,4208.2,,,,,,,,,,restaurant,17.4917874,78.3977643,node,4790969321,https://www.openstreetmap.org/node/4790969321
+35596153,restaurant,Rock deal restaurant  and bar,4209.6,,,,,,,,,,restaurant,17.4415779,78.3585643,node,5405056232,https://www.openstreetmap.org/node/5405056232
+35596153,restaurant,Subhodayam Tiffins,4226.2,,,,,,,,,,restaurant,17.4485112,78.3566326,node,13285248836,https://www.openstreetmap.org/node/13285248836
+35596153,university,Unique Public School,4233.8,,,,"302,8-3-231/A/410, Sri Nagar Colony, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4319374,78.4286034,node,7398511181,https://www.openstreetmap.org/node/7398511181
+35596153,restaurant,Cream Stone,4251.4,,,,,,,ice_cream,,,restaurant,17.4248564,78.4220264,node,1885680325,https://www.openstreetmap.org/node/1885680325
+35596153,restaurant,Delicacy,4263.3,,,,,,,,,,restaurant,17.4922521,78.3937025,node,2579745472,https://www.openstreetmap.org/node/2579745472
+35596153,university,Sri Sai Saraswathi Vidyanikethan,4265.2,,,,"8-2-231/A/501,502,503, Srinagar Colony Main Rd, Near Green Bawarchi, Sri Krishna Nagar, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4308888,78.4281653,node,7397325533,https://www.openstreetmap.org/node/7397325533
+35596153,restaurant,Raja Vari Ruchulu,4278.3,rajavariruchuluhyd@gmail.com,,04065881616,"Ramalayam Road Near Vishal Towers Kukatpally, 500072",500072,Mo-Su 11:00-22:00,fish;regional;ice_cream;seafood;local;noodles;chicken;kebab;indian;curry,,,restaurant,17.4885942,78.4136657,node,5409161322,https://www.openstreetmap.org/node/5409161322
+35596153,restaurant,Absolute barbeque (ab's),4279.9,,,,,,,,,,restaurant,17.4429689,78.357398,node,6036883486,https://www.openstreetmap.org/node/6036883486
+35596153,restaurant,Raja Rani Ruchulu,4302.4,,,,,,,,,,restaurant,17.4910941,78.4075166,node,7008120224,https://www.openstreetmap.org/node/7008120224
+35596153,restaurant,Simply south,4315.5,,,,,,,,,,restaurant,17.4426689,78.3571426,node,5405055453,https://www.openstreetmap.org/node/5405055453
+35596153,restaurant,Mayur Tiffins,4322.6,,,,,,,,,,restaurant,17.4913514,78.4072726,way,1161973357,https://www.openstreetmap.org/way/1161973357
+35596153,restaurant,guma gumalu,4323.3,,,,,,,,,,restaurant,17.4913568,78.4072751,node,7246509983,https://www.openstreetmap.org/node/7246509983
+35596153,college,,4334.9,,,,,,,,,,college,17.4925864,78.3903941,node,13715457703,https://www.openstreetmap.org/node/13715457703
+35596153,restaurant,Sardarji's Dhaba,4335.6,,,,,,,,,,restaurant,17.4419765,78.3571717,node,4705388500,https://www.openstreetmap.org/node/4705388500
+35596153,restaurant,hyderabad restaurant,4344.9,,,,"Yousufguda Basti, 500038",500038,Mo-Su 10:00-22:00,fine_dining;arab;kebab;curry;indian,,,restaurant,17.4363,78.4325861,node,2706495174,https://www.openstreetmap.org/node/2706495174
+35596153,restaurant,Lassi shop,4345.5,,https://www.lassishop.in/,+91 97047 00065,"MIG 12 MIG 12, Pragati Degree College, K P H B Phase 1, Kukatpally, Hyderabad, 500072",500072,11:30-23:00,ice_cream;lassi,,,restaurant,17.492609,78.4022484,node,7168572262,https://www.openstreetmap.org/node/7168572262
+35596153,restaurant,Arya Bhavan,4346.0,,,,,,,,,,restaurant,17.4509081,78.4369028,node,13208170233,https://www.openstreetmap.org/node/13208170233
+35596153,restaurant,Patiala Plate,4350.4,,,,,,,,,,restaurant,17.4421906,78.356953,node,13198367702,https://www.openstreetmap.org/node/13198367702
+35596153,restaurant,Green Bawarchi,4351.8,,,,,,,indian,,,restaurant,17.4299491,78.4284395,node,2062730675,https://www.openstreetmap.org/node/2062730675
+35596153,restaurant,Karachi Bakery,4358.7,,,,,,,,,,restaurant,17.4422262,78.3568595,node,13198367701,https://www.openstreetmap.org/node/13198367701
+35596153,restaurant,Vibrant Living,4363.9,,https://vibrantliving.in/,08096091111,"107 Prashant Hills, Rai Durg, 500104",500104,Mo-Su 08:00-21:00,,,,restaurant,17.4180127,78.3795955,node,12839760926,https://www.openstreetmap.org/node/12839760926
+35596153,university,Santharam Public School,4370.7,,,,"Sri Nagar Colony, Pragathi Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4305623,78.4291518,node,7398541391,https://www.openstreetmap.org/node/7398541391
+35596153,university,Shriram Montessori House of Children,4387.1,,,,"354, Rd Number 80, Film Nagar, Hyderabad, Telangana 500033",,,,,,university,17.41543,78.4048723,node,7385438440,https://www.openstreetmap.org/node/7385438440
+35596153,restaurant,Paradise,4389.7,,,,,,,,,,restaurant,17.4424212,78.3564904,node,5405056231,https://www.openstreetmap.org/node/5405056231
+35596153,restaurant,Tteokbokki,4390.0,,,+91 70757 48111,,,,korean,,,restaurant,17.4187459,78.3773857,node,13408726292,https://www.openstreetmap.org/node/13408726292
+35596153,restaurant,Mehfil,4392.5,,,,,,,chicken,,,restaurant,17.4145143,78.3942156,node,4670741589,https://www.openstreetmap.org/node/4670741589
+35596153,college,Sri Chaitanya Junior College,4392.7,,,,"metro pillar no 770, upstair of Nexa showrom, Sri Bhaskar Bhavan, Plot No:8&9, A S Raju Nagar Vivekananda Nagar, Beside South India Mall, Kukatpally, Hyderabad, Telangana 500072, Hyderabad, 500072",500072,,,,,college,17.4922912,78.4061527,node,7180155923,https://www.openstreetmap.org/node/7180155923
+35596153,restaurant,Paradise,4395.1,,,,,,,,,,restaurant,17.442275,78.3564842,node,4705398998,https://www.openstreetmap.org/node/4705398998
+35596153,restaurant,swagath grand,4403.8,,,,,,,,,,restaurant,17.4926212,78.4051466,node,7246516891,https://www.openstreetmap.org/node/7246516891
+35596153,restaurant,,4411.4,,,,,,,,,,restaurant,17.4588243,78.354782,node,13273731538,https://www.openstreetmap.org/node/13273731538
+35596153,college,"Jawaharlal Nehru Technological University, Hyderabad",4413.0,,https://jntuh.ac.in/,,,,,,,,college,17.4933482,78.3908118,way,493740300,https://www.openstreetmap.org/way/493740300
+35596153,restaurant,cream stone,4416.5,,,,,,,,,,restaurant,17.4928722,78.4044978,node,3388784598,https://www.openstreetmap.org/node/3388784598
+35596153,restaurant,Paradise,4420.5,,,,,,,,,,restaurant,17.4928896,78.4045926,node,3387486482,https://www.openstreetmap.org/node/3387486482
+35596153,restaurant,cream stone,4420.5,,,,,,,,,,restaurant,17.4929223,78.4044302,node,7180113797,https://www.openstreetmap.org/node/7180113797
+35596153,college,ECE Department,4432.6,,,,electronics and communication building WAY TO CRC,,Mo-Sa 09:30-17:00,,,,college,17.4936965,78.3925066,relation,6204403,https://www.openstreetmap.org/relation/6204403
+35596153,restaurant,Dominos's Pizza,4434.8,,https://www.dominos.co.in/,1860 210 0000,"Shop No 108 Shop No.108(part), Ground Floor, Alluri trade center, Plot No.1-13 Survey no.167 & 169, Kukatpally, Hyderabad, 500072",500072,11:00-23:00,pizza,,,restaurant,17.4931701,78.4038054,node,7168590392,https://www.openstreetmap.org/node/7168590392
+35596153,restaurant,Swagath Grand,4435.1,,,,,,,,,,restaurant,17.4931585,78.4038869,node,3387327055,https://www.openstreetmap.org/node/3387327055
+35596153,restaurant,Lakshmi Priya Restaurant,4435.6,,,9849007930,,,,,,,restaurant,17.4173025,78.4125036,node,4676142991,https://www.openstreetmap.org/node/4676142991
+35596153,restaurant,Godavari Ruchulu,4448.1,,,,,,,chinese;indian,,,restaurant,17.4170898,78.4122806,node,4670788289,https://www.openstreetmap.org/node/4670788289
+35596153,restaurant,Anupama Restaurant,4455.0,,,,,,,,,,restaurant,17.493387,78.4036242,node,3388911677,https://www.openstreetmap.org/node/3388911677
+35596153,university,HPS Kids Kamalapuri Colony,4455.3,,,,"Plot No. 192, 2nd Phase, Kamalapuri Colony, S R Nagar Colony, Hyderabad, Telangana 500073",,,,,,university,17.4303869,78.430006,node,7398541392,https://www.openstreetmap.org/node/7398541392
+35596153,restaurant,,4455.6,,,,,,,chinese,,,restaurant,17.4603438,78.3545874,node,10150942416,https://www.openstreetmap.org/node/10150942416
+35596153,restaurant,Olive Kitchen,4458.1,,,+91-8500036622,,,Mo-Su 10:00-22:00,regional;chinese;indian;kebab,,,restaurant,17.4427579,78.3557117,node,4729118789,https://www.openstreetmap.org/node/4729118789
+35596153,restaurant,margi hotel,4459.3,,,,,,,,,,restaurant,17.4365712,78.4339299,node,2706495852,https://www.openstreetmap.org/node/2706495852
+35596153,restaurant,Nayudu Gari Kunda Biriyani,4459.4,,,,,,10:00-22:00,,,,restaurant,17.4940506,78.3943965,node,11736410527,https://www.openstreetmap.org/node/11736410527
+35596153,restaurant,Santhosh Family Dhaba,4463.1,,,,"Old Bombay Highway, Hyderabad",,,regional,,,restaurant,17.4138568,78.3948337,node,7243983830,https://www.openstreetmap.org/node/7243983830
+35596153,university,MGM INTERNATIONAL SCHOOL,4465.5,,,,"8-3-315/5, Sri Krishna Nagar, Maruthi Nagar, Yousufguda, Hyderabad, Telangana 500045",,,,,,university,17.4345308,78.4328895,node,7398541400,https://www.openstreetmap.org/node/7398541400
+35596153,restaurant,Green Bawarchi,4467.5,,,,,,,,,,restaurant,17.4936276,78.4028605,node,3388949138,https://www.openstreetmap.org/node/3388949138
+35596153,restaurant,Vinflora,4473.2,,,,,,,,,,restaurant,17.4295786,78.4295853,node,2177955040,https://www.openstreetmap.org/node/2177955040
+35596153,restaurant,Dhivija's Take away,4494.9,,,,"Road No 78, Jubilee Hills, Hyderabad",,,regional,,,restaurant,17.4153883,78.4086766,node,7243983826,https://www.openstreetmap.org/node/7243983826
+35596153,college,Avinash College of Commerce,4500.5,,,,,,,,,,college,17.4936,78.4047193,node,12413100580,https://www.openstreetmap.org/node/12413100580
+35596153,restaurant,Swagath Restaurant,4503.5,,,,,,,,,,restaurant,17.4160054,78.4108236,node,4711427792,https://www.openstreetmap.org/node/4711427792
+35596153,restaurant,Diner's Pavilion,4507.2,,,,,,,,,,restaurant,17.4428005,78.3552166,node,4729119789,https://www.openstreetmap.org/node/4729119789
+35596153,restaurant,Cocos,4522.5,,,,,,,indian,,,restaurant,17.4239168,78.4247745,node,817353890,https://www.openstreetmap.org/node/817353890
+35596153,restaurant,Amrutha paradise,4525.3,,,,"MIG 75 JNTU Road, 500072",500072,,,,,restaurant,17.4946659,78.3951704,node,7113730686,https://www.openstreetmap.org/node/7113730686
+35596153,restaurant,Vibrant Living,4528.1,,https://vibrantliving.in/,09000994458,"82 Film Nagar, Jubilee Hills, Hyderabad, 500096",500096,Mo-Su 07:00-22:00,,,,restaurant,17.4141814,78.4051098,node,12839760927,https://www.openstreetmap.org/node/12839760927
+35596153,university,Little Elly,4536.5,,,,"Phase III, Hyderabad, Telangana 500033",,,,,,university,17.4141797,78.4054691,node,7385438441,https://www.openstreetmap.org/node/7385438441
+35596153,restaurant,desert place,4542.6,,,,,,,,,,restaurant,17.4947749,78.3982894,node,7008880760,https://www.openstreetmap.org/node/7008880760
+35596153,college,Manuu Polytechnic Hyderabad,4544.5,,,,,,,,,,college,17.4253897,78.3654442,relation,5317950,https://www.openstreetmap.org/relation/5317950
+35596153,restaurant,Amogham,4545.4,,,,,,,,,,restaurant,17.4940501,78.4045222,node,12413100573,https://www.openstreetmap.org/node/12413100573
+35596153,university,Maulana Azaad National Urdu University,4549.9,,https://manuu.edu.in/,,,,,,,,university,17.4262009,78.364565,relation,11719542,https://www.openstreetmap.org/relation/11719542
+35596153,college,Roots academy,4553.7,,,,,,,,,,college,17.4949198,78.3951086,node,7244371761,https://www.openstreetmap.org/node/7244371761
+35596153,restaurant,IGURU,4557.4,,,,,,,indian,,,restaurant,17.4181368,78.3752194,node,13123278412,https://www.openstreetmap.org/node/13123278412
+35596153,university,Aishwarya Educational Academy,4559.0,,,,"8-3-833/225, Kamala Puri Internal Rd, Dharma Reddy Colony Phase II, SBH Colony, Yousufguda, Hyderabad, Telangana 500073",,,,,,university,17.430131,78.4310177,node,7398541394,https://www.openstreetmap.org/node/7398541394
+35596153,restaurant,Kritunga,4567.2,,,,,,,,,,restaurant,17.4941766,78.4048998,node,7246516893,https://www.openstreetmap.org/node/7246516893
+35596153,restaurant,MRCB  Restaurant,4573.1,,,,"Road No 78, Jubilee Hills, Hyderabad",,,regional,,,restaurant,17.4135599,78.4040268,node,7243983824,https://www.openstreetmap.org/node/7243983824
+35596153,restaurant,,4583.4,,,,,,,indian,,,restaurant,17.416631,78.414343,way,1446699004,https://www.openstreetmap.org/way/1446699004
+35596153,pub,moonshine,4588.2,,,,,,,,,,pub,17.4142386,78.4077027,node,8113625320,https://www.openstreetmap.org/node/8113625320
+35596153,restaurant,Ambica Mess,4594.6,,,,,,,,,,restaurant,17.412664,78.395312,node,4646388694,https://www.openstreetmap.org/node/4646388694
+35596153,restaurant,Under The Stars,4600.3,,,,,,,,,,restaurant,17.4468562,78.3533385,node,13285111310,https://www.openstreetmap.org/node/13285111310
+35596153,university,jntu college,4628.2,,,,,,,,,,university,17.4954642,78.3925356,node,12596383259,https://www.openstreetmap.org/node/12596383259
+35596153,restaurant,Brundavan,4628.7,,,,,,,,,,restaurant,17.4137026,78.4070873,node,4769501963,https://www.openstreetmap.org/node/4769501963
+35596153,restaurant,Madhushala,4633.5,,,,,,,,,,restaurant,17.429919,78.4317213,way,340235296,https://www.openstreetmap.org/way/340235296
+35596153,restaurant,Kritunga,4640.0,,,,,,,,,,restaurant,17.4955925,78.3992808,node,6255308286,https://www.openstreetmap.org/node/6255308286
+35596153,restaurant,Vistara,4640.9,,,,,,,,,,restaurant,17.4957046,78.3951187,node,7244140658,https://www.openstreetmap.org/node/7244140658
+35596153,restaurant,Vistari KITCHEN,4652.7,,,,,,,,,,restaurant,17.4958112,78.3951541,node,11747869749,https://www.openstreetmap.org/node/11747869749
+35596153,restaurant,Vistara,4656.2,,https://vasaneye.com/,040 30154200,"Shop No 5 JNTU Road, 500072",500072,,,,,restaurant,17.4958418,78.3951122,node,6249185487,https://www.openstreetmap.org/node/6249185487
+35596153,restaurant,Sai Balaji Tiffins,4663.7,,,,,,,,,,restaurant,17.4388279,78.4370548,node,6822126568,https://www.openstreetmap.org/node/6822126568
+35596153,restaurant,Eruvaka food zone,4667.4,,,,,,,,,,restaurant,17.4935556,78.4107157,way,1123874128,https://www.openstreetmap.org/way/1123874128
+35596153,restaurant,One Place,4671.1,,,,,,"PH,Mo-Su 09:00-21:00",,,,restaurant,17.4957769,78.4004434,way,331631419,https://www.openstreetmap.org/way/331631419
+35596153,university,Jntu First Gate,4672.3,,,,,,,,,,university,17.4959769,78.3947049,node,13715452784,https://www.openstreetmap.org/node/13715452784
+35596153,restaurant,Chutneys,4707.9,,,08374748484,"Kbhb main road,beside vishwanath theatre kphb main road, Hyderabad, 500072",500072,Mo-Su 08:00-23:00,indian;dessert,,,restaurant,17.4963076,78.3969579,node,11358156634,https://www.openstreetmap.org/node/11358156634
+35596153,restaurant,Aaromale,4709.6,,,,,,,,,,restaurant,17.4128381,78.4066158,node,10795095588,https://www.openstreetmap.org/node/10795095588
+35596153,restaurant,Chutneys,4711.9,,,,,,,,,,restaurant,17.4963463,78.3968413,way,331633267,https://www.openstreetmap.org/way/331633267
+35596153,restaurant,Tabla Restaurant,4724.7,,,,,,,,,,restaurant,17.4964545,78.3971777,node,7936153755,https://www.openstreetmap.org/node/7936153755
+35596153,college,Chaitanya Junior College,4726.8,,,,,,,,,,college,17.488127,78.3695197,way,872930829,https://www.openstreetmap.org/way/872930829
+35596153,restaurant,"Jain Kitchen, Pure Vegetarian Restaurant",4732.1,,,09346675400,"backgate, kkrs smr vinay fountainhead sreela park pride road, Hyderabad, 500049",500049,Mo-Su 08:00-22:00,indian,,,restaurant,17.49001,78.3723191,node,11358156620,https://www.openstreetmap.org/node/11358156620
+35596153,restaurant,SO - The Sky Kitchen,4751.5,,https://dinein.petpooja.com/qr/yjcop2n4/11,+91-40-23558004,Rd 92,,,,,,restaurant,17.4161279,78.416848,node,11597256218,https://www.openstreetmap.org/node/11597256218
+35596153,restaurant,Little Italy,4759.4,,,+40 2355 8001,"550 Road No-92, 500033",500033,"12:00-15:00, 19:00-23:00",,,,restaurant,17.4160322,78.4168158,node,3638711628,https://www.openstreetmap.org/node/3638711628
+35596153,pub,MOB Belgian Beer House,4765.0,,,,,,,,,,pub,17.4159563,78.4167784,node,11597354831,https://www.openstreetmap.org/node/11597354831
+35596153,restaurant,Date With Soup Restaurant,4765.2,,,,,,,,,,restaurant,17.442481,78.439334,node,6822126608,https://www.openstreetmap.org/node/6822126608
+35596153,restaurant,Blue Fox,4780.0,,,,,,,,,,restaurant,17.4232236,78.4275415,node,817354056,https://www.openstreetmap.org/node/817354056
+35596153,college,,4780.2,,,,,,,,,,college,17.4424728,78.4394781,node,7244496574,https://www.openstreetmap.org/node/7244496574
+35596153,university,Brainobrain Hyderabad,4783.3,,,,,,,,"SBH Colony, Yousufguda, Hyderabad, Telangana 500045",,university,17.4306464,78.433941,node,7398541395,https://www.openstreetmap.org/node/7398541395
+35596153,college,Sri Chaitanya Junior College,4786.3,,,,"Water Works Road, hyderabad, 500049",500049,,,,,college,17.4890369,78.3698786,way,340274278,https://www.openstreetmap.org/way/340274278
+35596153,restaurant,,4812.1,,,,,,,,,,restaurant,17.4402276,78.4390716,node,7244498390,https://www.openstreetmap.org/node/7244498390
+35596153,restaurant,Kodi kura chitti gari,4813.2,,,,"Nizampet - JNTU Road Mumbai Highway, Hyderabad, 500072",500072,,,,,restaurant,17.4972266,78.3941808,node,9903904322,https://www.openstreetmap.org/node/9903904322
+35596153,restaurant,Vistari Kitchen,4829.8,,,,,,,,,,restaurant,17.497378,78.3942347,node,11747869748,https://www.openstreetmap.org/node/11747869748
+35596153,college,Narayana IIT Campus,4842.1,,,,,,,,,,college,17.4974562,78.3985949,way,265217794,https://www.openstreetmap.org/way/265217794
+35596153,restaurant,Universal Kababs & Biryani,4873.1,,,,,,Mo-Su 12:00-23:00,indian,,,restaurant,17.4417429,78.4401706,node,6723691440,https://www.openstreetmap.org/node/6723691440
+35596153,college,Apollo College Of Physiotherapy,4885.0,,,,,,,,,,college,17.4139659,78.4150722,way,356271424,https://www.openstreetmap.org/way/356271424
+35596153,restaurant,House of Dosas,4885.0,,,,500034,500034,Mo-Su 07:00-00:30,indian,,,restaurant,17.4235207,78.4292446,node,4407583397,https://www.openstreetmap.org/node/4407583397
+35596153,restaurant,Chillies Restaurant,4885.3,,,,Nizampet - JNTU Road Mumbai Highway,,,,,,restaurant,17.4977234,78.3917992,node,7113643285,https://www.openstreetmap.org/node/7113643285
+35596153,restaurant,Sai Darshini,4890.1,,,,"Vengal Rao Nagar Main Road, SR Nagar, Hyderabad, 500038",500038,Mo-Su 07:00-23:00,regional,,,restaurant,17.4419503,78.4404,node,6684817721,https://www.openstreetmap.org/node/6684817721
+35596153,restaurant,Dwaraka Restaurant,4899.2,,,,Nizampet - JNTU Road Mumbai Highway,,,,,,restaurant,17.4978299,78.3915794,node,7113634286,https://www.openstreetmap.org/node/7113634286
+35596153,restaurant,Rams Dosa,4904.8,,,,,,,,,,restaurant,17.4232992,78.4292804,node,4407603692,https://www.openstreetmap.org/node/4407603692
+35596153,university,Global kids international school,4915.3,,,,"Jaya Prakash Nagar, Imam Guda, Padala Ramareddy Colony, Yella Reddy Guda, Hyderabad, Telangana 500073",,,,,,university,17.4349108,78.4378621,node,7398541399,https://www.openstreetmap.org/node/7398541399
+35596153,restaurant,Sai Darshini,4929.3,,,,,,Mo-Su 09:00-21:00,regional;coffee_shop;chinese,,,restaurant,17.442097,78.4408275,node,8107751448,https://www.openstreetmap.org/node/8107751448
+35596153,restaurant,Pista House,4930.3,,,,Nizampet - JNTU Road Mumbai Highway,,,,,,restaurant,17.4979831,78.3903661,node,7113622287,https://www.openstreetmap.org/node/7113622287
+35596153,restaurant,,4939.8,,,,,,,,,,restaurant,17.4981264,78.3908769,node,2428125220,https://www.openstreetmap.org/node/2428125220
+35596153,college,Narayana Junior College,4943.1,,,,,,,,,,college,17.4983314,78.3929318,way,355678210,https://www.openstreetmap.org/way/355678210
+35596153,college,Jawaharlal Nehru Institute of Banking and Finance,4966.2,,,,,,,,,,college,17.4419708,78.3509667,way,873970361,https://www.openstreetmap.org/way/873970361
+35596153,restaurant,,4980.2,,,,,,,,,,restaurant,17.4983123,78.3893982,node,3387385353,https://www.openstreetmap.org/node/3387385353
+35596153,restaurant,al-saba restaurant,4988.5,,,,,,,regional,,,restaurant,17.437781,78.4399127,way,264993835,https://www.openstreetmap.org/way/264993835
+35596153,restaurant,Almas,4996.1,,,,,,,regional,,,restaurant,17.4426528,78.441636,node,4418972989,https://www.openstreetmap.org/node/4418972989

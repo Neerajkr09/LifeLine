@@ -1,0 +1,49 @@
+===============================================================================
+  osmharvest - OpenStreetMap POI harvester
+===============================================================================
+
+WHAT THIS IS
+  Give it a coordinate and a radius. It finds colleges, universities,
+  restaurants and pubs, stores them in a database, and writes a per-request
+  email file. It survives crashes, reboots and server outages, so a job can
+  run for days without losing work.
+
+READ THESE, IN THIS ORDER
+  1. SETUP_GUIDE.md   Step-by-step Windows setup for a beginner. Start here.
+  2. README.md        How the system works and why. Read before the VPS.
+
+FIRST THREE COMMANDS
+  Open Command Prompt in THIS folder, then:
+
+    pip install -r requirements.txt
+    python test_harvest.py
+    python -m osmharvest doctor
+
+  test_harvest.py talks to no servers at all. If it prints ALL TESTS PASSED,
+  your files are correct and the logic is proven. Do this before anything else.
+
+THEN TRY SANDBACH
+    python -m osmharvest submit --lat 53.1439 --lng -2.3661 --radius 5000
+    python -m osmharvest run --request-id <the 8-digit id it prints>
+    python -m osmharvest status --request-id <that same id>
+
+  Expect this to finish in about a minute, and to find roughly 40-90 places.
+  Sandbach is a small town. That is the right answer, not a failure.
+
+REQUIREMENTS
+  Python 3.10 or newer (you have 3.11 - fine)
+  The 'requests' package. That is the only third-party dependency.
+
+WHERE YOUR RESULTS GO
+  exports\<request_id>\emails_<request_id>.csv    contacts
+  exports\<request_id>\places_<request_id>.csv    everything found
+  exports\<request_id>\places_<request_id>.geojson  drag onto geojson.io
+  exports\<request_id>\manifest_<request_id>.json   run metadata
+
+  osmharvest.db is the whole job. Back it up; copy it to move a job anywhere.
+
+LICENCE
+  OpenStreetMap data is ODbL. Attribution is a licence condition, not a
+  courtesy, and is written into every export file. Any report or screenshot
+  must carry "(c) OpenStreetMap contributors".
+===============================================================================
